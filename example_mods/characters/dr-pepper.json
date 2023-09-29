@@ -1,0 +1,39 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"indices": [
+				0,
+				2,
+				3,
+				4
+			],
+			"fps": 12,
+			"anim": "idle",
+			"loop": false,
+			"name": "dr_pepper i am inside your walls"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/dr_pepper",
+	"position": [
+		-760,
+		-820
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		670,
+		970
+	],
+	"sing_duration": 4,
+	"scale": 0.3
+}

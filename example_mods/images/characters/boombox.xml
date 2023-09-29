@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="boombox.png">
+<SubTexture name="boppy bop bop0000" x="0" y="259" width="298" height="250" frameX="-107" frameY="-163" frameWidth="528" frameHeight="505" />
+<SubTexture name="boppy bop bop0001" x="0" y="259" width="298" height="250" frameX="-107" frameY="-163" frameWidth="528" frameHeight="505" />
+<SubTexture name="boppy bop bop0002" x="286" y="0" width="287" height="258" frameX="-112" frameY="-155" frameWidth="528" frameHeight="505" />
+<SubTexture name="boppy bop bop0003" x="0" y="0" width="286" height="259" frameX="-113" frameY="-154" frameWidth="528" frameHeight="505" />
+<SubTexture name="boppy bop bop0004" x="0" y="0" width="286" height="259" frameX="-113" frameY="-154" frameWidth="528" frameHeight="505" />
+<SubTexture name="boppy bop bop0005" x="0" y="0" width="286" height="259" frameX="-113" frameY="-154" frameWidth="528" frameHeight="505" />
+<SubTexture name="boppy bop bop0006" x="0" y="0" width="286" height="259" frameX="-113" frameY="-154" frameWidth="528" frameHeight="505" />
+<SubTexture name="boppy bop bop0007" x="0" y="0" width="286" height="259" frameX="-113" frameY="-154" frameWidth="528" frameHeight="505" />
+</TextureAtlas>

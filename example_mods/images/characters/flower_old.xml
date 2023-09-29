@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="flower_old.png">
+<SubTexture name="flower down0000" x="4082" y="3881" width="1305" height="1585" frameX="-157" frameY="-385" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="flower down0001" x="2790" y="3881" width="1292" height="1615" frameX="-218" frameY="-355" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="flower idle0000" x="4083" y="0" width="1427" height="1877" frameX="-263" frameY="-79" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="flower idle0001" x="1435" y="1955" width="1429" height="1911" frameX="-273" frameY="-45" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="flower idle0002" x="2651" y="0" width="1432" height="1926" frameX="-282" frameY="-30" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="flower idle0003" x="0" y="1955" width="1435" height="1926" frameX="-283" frameY="-30" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="flower left0000" x="5510" y="0" width="1492" height="1841" frameX="-332" frameY="-62" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="flower left0001" x="5510" y="1841" width="1488" height="1838" frameX="-382" frameY="-65" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="flower right0000" x="0" y="3881" width="1428" height="1815" frameX="-62" frameY="-28" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="flower right0001" x="4083" y="1877" width="1390" height="1831" frameX="-144" frameY="-23" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="flower right0002" x="1428" y="3881" width="1362" height="1814" frameX="-212" frameY="-34" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="flower up0000" x="0" y="0" width="1327" height="1955" frameX="-641" frameY="-9" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="flower up0001" x="1327" y="0" width="1324" height="1932" frameX="-601" frameY="-32" frameWidth="2048" frameHeight="2048" />
+</TextureAtlas>

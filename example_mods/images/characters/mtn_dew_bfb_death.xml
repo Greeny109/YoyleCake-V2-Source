@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="mtn_dew_bfb_death.png">
+<SubTexture name="death0000" x="986" y="0" width="264" height="625" frameX="-231" frameY="-52" frameWidth="720" frameHeight="720" />
+<SubTexture name="death0001" x="986" y="0" width="264" height="625" frameX="-231" frameY="-52" frameWidth="720" frameHeight="720" />
+<SubTexture name="death0002" x="720" y="0" width="266" height="630" frameX="-229" frameY="-48" frameWidth="720" frameHeight="720" />
+<SubTexture name="death0003" x="1250" y="0" width="627" height="263" frameX="-61" frameY="-403" frameWidth="720" frameHeight="720" />
+<SubTexture name="death0004" x="0" y="720" width="624" height="276" frameX="-64" frameY="-378" frameWidth="720" frameHeight="720" />
+<SubTexture name="death0005" x="1250" y="0" width="627" height="263" frameX="-61" frameY="-403" frameWidth="720" frameHeight="720" />
+<SubTexture name="death0006" x="0" y="0" width="720" height="720" frameX="0" frameY="0" frameWidth="720" frameHeight="720" />
+<SubTexture name="death0007" x="0" y="0" width="720" height="720" frameX="0" frameY="0" frameWidth="720" frameHeight="720" />
+<SubTexture name="retry0000" x="1250" y="502" width="475" height="108" frameX="-123" frameY="-311" frameWidth="720" frameHeight="720" />
+<SubTexture name="retry0001" x="1250" y="263" width="545" height="125" frameX="-88" frameY="-303" frameWidth="720" frameHeight="720" />
+<SubTexture name="retry0002" x="1250" y="388" width="496" height="114" frameX="-113" frameY="-308" frameWidth="720" frameHeight="720" />
+</TextureAtlas>

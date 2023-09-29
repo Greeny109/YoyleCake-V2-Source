@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="WaterySprites.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="firey DOWN0000" x="20" y="20" width="911" height="987"/>
+	<SubTexture name="firey DOWN0001" x="981" y="20" width="911" height="987"/>
+	<SubTexture name="firey DOWN0002" x="1942" y="20" width="911" height="987"/>
+	<SubTexture name="firey DOWN0003" x="2903" y="20" width="911" height="987"/>
+	<SubTexture name="firey DOWN0004" x="3864" y="20" width="911" height="987"/>
+	<SubTexture name="firey DOWN0005" x="4825" y="20" width="911" height="987"/>
+	<SubTexture name="firey DOWN0006" x="5786" y="20" width="911" height="987"/>
+	<SubTexture name="firey DOWN0007" x="6747" y="20" width="911" height="987"/>
+	<SubTexture name="firey DOWN0008" x="20" y="1057" width="911" height="987"/>
+	<SubTexture name="firey DOWN0009" x="981" y="1057" width="911" height="987"/>
+	<SubTexture name="firey DOWN0010" x="1942" y="1057" width="911" height="987"/>
+	<SubTexture name="firey DOWN0011" x="2903" y="1057" width="911" height="987"/>
+	<SubTexture name="firey DOWN0012" x="1942" y="1057" width="911" height="987"/>
+	<SubTexture name="firey IDLE0000" x="3864" y="1057" width="925" height="994"/>
+	<SubTexture name="firey IDLE0001" x="4839" y="1057" width="925" height="994"/>
+	<SubTexture name="firey IDLE0002" x="5814" y="1057" width="925" height="994"/>
+	<SubTexture name="firey IDLE0003" x="6789" y="1057" width="925" height="994"/>
+	<SubTexture name="firey IDLE0004" x="20" y="2101" width="925" height="994"/>
+	<SubTexture name="firey IDLE0005" x="995" y="2101" width="925" height="994"/>
+	<SubTexture name="firey IDLE0006" x="1970" y="2101" width="925" height="994"/>
+	<SubTexture name="firey IDLE0007" x="2945" y="2101" width="925" height="994"/>
+	<SubTexture name="firey IDLE0008" x="3920" y="2101" width="925" height="994"/>
+	<SubTexture name="firey IDLE0009" x="4895" y="2101" width="925" height="994"/>
+	<SubTexture name="firey IDLE0010" x="5870" y="2101" width="925" height="994"/>
+	<SubTexture name="firey IDLE0011" x="6845" y="2101" width="925" height="994"/>
+	<SubTexture name="firey IDLE0012" x="20" y="3145" width="925" height="994"/>
+	<SubTexture name="firey LEFT0000" x="995" y="3145" width="992" height="1025"/>
+	<SubTexture name="firey LEFT0001" x="2037" y="3145" width="992" height="1025"/>
+	<SubTexture name="firey LEFT0002" x="3079" y="3145" width="992" height="1025"/>
+	<SubTexture name="firey LEFT0003" x="4121" y="3145" width="992" height="1025"/>
+	<SubTexture name="firey LEFT0004" x="5163" y="3145" width="992" height="1025"/>
+	<SubTexture name="firey LEFT0005" x="6205" y="3145" width="992" height="1025"/>
+	<SubTexture name="firey LEFT0006" x="20" y="4220" width="992" height="1025"/>
+	<SubTexture name="firey LEFT0007" x="1062" y="4220" width="992" height="1025"/>
+	<SubTexture name="firey LEFT0008" x="2104" y="4220" width="992" height="1025"/>
+	<SubTexture name="firey LEFT0009" x="3146" y="4220" width="992" height="1025"/>
+	<SubTexture name="firey LEFT0010" x="4188" y="4220" width="992" height="1025"/>
+	<SubTexture name="firey LEFT0011" x="3146" y="4220" width="992" height="1025"/>
+	<SubTexture name="firey LEFT0012" x="4188" y="4220" width="992" height="1025"/>
+	<SubTexture name="firey RIGHT0000" x="5230" y="4220" width="958" height="1010"/>
+	<SubTexture name="firey RIGHT0001" x="6238" y="4220" width="958" height="1010"/>
+	<SubTexture name="firey RIGHT0002" x="20" y="5295" width="958" height="1010"/>
+	<SubTexture name="firey RIGHT0003" x="1028" y="5295" width="958" height="1010"/>
+	<SubTexture name="firey RIGHT0004" x="2036" y="5295" width="958" height="1010"/>
+	<SubTexture name="firey RIGHT0005" x="3044" y="5295" width="958" height="1010"/>
+	<SubTexture name="firey RIGHT0006" x="4052" y="5295" width="958" height="1010"/>
+	<SubTexture name="firey RIGHT0007" x="5060" y="5295" width="958" height="1010"/>
+	<SubTexture name="firey RIGHT0008" x="6068" y="5295" width="958" height="1010"/>
+	<SubTexture name="firey RIGHT0009" x="7076" y="5295" width="958" height="1010"/>
+	<SubTexture name="firey RIGHT0010" x="20" y="6355" width="958" height="1010"/>
+	<SubTexture name="firey RIGHT0011" x="1028" y="6355" width="958" height="1010"/>
+	<SubTexture name="firey RIGHT0012" x="2036" y="6355" width="958" height="1010"/>
+	<SubTexture name="firey UP0000" x="3044" y="6355" width="992" height="1048"/>
+	<SubTexture name="firey UP0001" x="4086" y="6355" width="992" height="1048"/>
+	<SubTexture name="firey UP0002" x="5128" y="6355" width="992" height="1048"/>
+	<SubTexture name="firey UP0003" x="6170" y="6355" width="992" height="1048"/>
+</TextureAtlas>

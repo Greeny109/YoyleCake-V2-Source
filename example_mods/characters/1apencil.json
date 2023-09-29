@@ -1,0 +1,197 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-100,
+				332
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "PencilIdle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-54,
+				332
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "PencilLeft",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-88,
+				331
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "PencilRight",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-94,
+				354
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "PencilUp",
+			"indices": []
+		},
+		{
+			"offsets": [
+				211,
+				345
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "PencilDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-121,
+				332
+			],
+			"anim": "Really",
+			"fps": 24,
+			"name": "PencilRLY",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-23,
+				333
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "PencilLMISS"
+		},
+		{
+			"offsets": [
+				-96,
+				330
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "PencilRMISS"
+		},
+		{
+			"offsets": [
+				-103,
+				363
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "PencilUMISS"
+		},
+		{
+			"offsets": [
+				393,
+				345
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "PencilDMISS"
+		},
+		{
+			"offsets": [
+				-23,
+				333
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFTmiss-loop",
+			"indices": [
+				3,
+				4,
+				5,
+				6
+			],
+			"name": "PencilLMISS"
+		},
+		{
+			"offsets": [
+				-96,
+				330
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHTmiss-loop",
+			"indices": [
+				3,
+				4,
+				5,
+				6
+			],
+			"name": "PencilRMISS"
+		},
+		{
+			"offsets": [
+				-103,
+				363
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUPmiss-loop",
+			"indices": [
+				3,
+				4,
+				5,
+				6
+			],
+			"name": "PencilUMISS"
+		},
+		{
+			"offsets": [
+				393,
+				345
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWNmiss-loop",
+			"indices": [
+				3,
+				4,
+				5,
+				6
+			],
+			"name": "PencilDMISS"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/1aPencil",
+	"position": [
+		0,
+		300
+	],
+	"healthicon": "pencil",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		169,
+		9
+	],
+	"camera_position": [
+		70,
+		-180
+	],
+	"sing_duration": 5,
+	"scale": 0.8
+}

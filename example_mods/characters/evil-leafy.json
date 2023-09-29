@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				10
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "evil leafy idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				289,
+				-61
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "left slash right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-580,
+				-130
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "left slash right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-190,
+				114
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-201,
+				-238
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/evil_leafy",
+	"position": [
+		440,
+		30
+	],
+	"healthicon": "evil-leafy",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		1,
+		1
+	],
+	"camera_position": [
+		-310,
+		-240
+	],
+	"sing_duration": 6.1,
+	"scale": 2
+}

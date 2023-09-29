@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Four-Running.png">
+<SubTexture name="swigity swooty im coming for your booty0000" x="1899" y="0" width="1593" height="1804" frameX="-257" frameY="-284" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="swigity swooty im coming for your booty0001" x="3492" y="0" width="1594" height="1777" frameX="-254" frameY="-310" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="SHUT THE FUCK UP0000" x="5086" y="0" width="1946" height="1662" frameX="-71" frameY="-213" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="SHUT THE FUCK UP0001" x="0" y="0" width="1899" height="2088" frameX="-89" frameY="0" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="SHUT THE FUCK UP0002" x="0" y="2088" width="1828" height="1720" frameX="-130" frameY="0" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="SHUT THE FUCK UP0003" x="1828" y="2088" width="1958" height="1702" frameX="-65" frameY="0" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="SHUT THE FUCK UP0004" x="1714" y="3808" width="1714" height="1445" frameX="-219" frameY="-546" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="SHUT THE FUCK UP0005" x="0" y="3808" width="1714" height="1554" frameX="-219" frameY="-445" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="SHUT THE FUCK UP0006" x="5086" y="1662" width="1714" height="1570" frameX="-219" frameY="-431" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="SHUT THE FUCK UP0007" x="5086" y="1662" width="1714" height="1570" frameX="-219" frameY="-431" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="SHUT THE FUCK UP0008" x="5086" y="1662" width="1714" height="1570" frameX="-219" frameY="-431" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="SHUT THE FUCK UP0009" x="5086" y="1662" width="1714" height="1570" frameX="-219" frameY="-431" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="SHUT THE FUCK UP0010" x="5086" y="1662" width="1714" height="1570" frameX="-219" frameY="-431" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="SHUT THE FUCK UP0011" x="5086" y="1662" width="1714" height="1570" frameX="-219" frameY="-431" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="SHUT THE FUCK UP0012" x="5086" y="1662" width="1714" height="1570" frameX="-219" frameY="-431" frameWidth="2048" frameHeight="2048" />
+</TextureAtlas>

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 8,
+			"anim": "idle",
+			"indices": [],
+			"name": "dreamcast idle"
+		},
+		{
+			"offsets": [
+				3,
+				3
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "dreamcast down"
+		},
+		{
+			"offsets": [
+				1,
+				1
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "dreamcast up"
+		},
+		{
+			"offsets": [
+				25,
+				14
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "dreamcast right"
+		},
+		{
+			"offsets": [
+				-4,
+				4
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "dreamcast left"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/dreamcast",
+	"position": [
+		-130,
+		120
+	],
+	"healthicon": "dreamcast",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-480,
+		-190
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

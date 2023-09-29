@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="evil_leafy.png">
+<SubTexture name="evil leafy idle0000" x="416" y="0" width="316" height="573" frameX="0" frameY="0" frameWidth="316" frameHeight="573" />
+<SubTexture name="left slash right0000" x="732" y="0" width="216" height="392" frameX="0" frameY="0" frameWidth="216" frameHeight="392" />
+<SubTexture name="down0000" x="732" y="392" width="116" height="210" frameX="0" frameY="0" frameWidth="116" frameHeight="210" />
+<SubTexture name="up0000" x="0" y="0" width="416" height="754" frameX="0" frameY="0" frameWidth="416" frameHeight="754" />
+</TextureAtlas>

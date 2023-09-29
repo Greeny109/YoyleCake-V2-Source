@@ -1,0 +1,50 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "Hard",
+	"hideFreeplay": true,
+	"weekBackground": "stage4",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Stupid Murder",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Value",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Tea-pot",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

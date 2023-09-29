@@ -1,0 +1,42 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				121,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [
+				9,
+				7,
+				6,
+				4,
+				2,
+				1,
+				0
+			],
+			"name": "idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/dr_pepper_d",
+	"position": [
+		-650,
+		-160
+	],
+	"healthicon": "gf",
+	"flip_x": true,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		670,
+		970
+	],
+	"sing_duration": 4,
+	"scale": 0.52
+}

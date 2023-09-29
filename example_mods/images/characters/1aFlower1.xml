@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="1aFlower1.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="FlowerDown0000" x="13" y="13" width="1354" height="1486"/>
+	<SubTexture name="FlowerDown0001" x="1380" y="13" width="1354" height="1486"/>
+	<SubTexture name="FlowerDown0002" x="2747" y="13" width="1354" height="1486"/>
+	<SubTexture name="FlowerDown0003" x="4114" y="13" width="1354" height="1486"/>
+	<SubTexture name="FlowerDown0004" x="5481" y="13" width="1354" height="1486"/>
+	<SubTexture name="FlowerDown0005" x="13" y="1512" width="1354" height="1486"/>
+	<SubTexture name="FlowerDown0006" x="13" y="1512" width="1354" height="1486"/>
+	<SubTexture name="FlowerIdle0000" x="1380" y="1512" width="1275" height="1529"/>
+	<SubTexture name="FlowerIdle0001" x="1380" y="1512" width="1275" height="1529"/>
+	<SubTexture name="FlowerIdle0002" x="2668" y="1512" width="1275" height="1529"/>
+	<SubTexture name="FlowerIdle0003" x="2668" y="1512" width="1275" height="1529"/>
+	<SubTexture name="FlowerIdle0004" x="3956" y="1512" width="1275" height="1529"/>
+	<SubTexture name="FlowerIdle0005" x="3956" y="1512" width="1275" height="1529"/>
+	<SubTexture name="FlowerIdle0006" x="5244" y="1512" width="1275" height="1529"/>
+	<SubTexture name="FlowerIdle0007" x="5244" y="1512" width="1275" height="1529"/>
+	<SubTexture name="FlowerIdle0008" x="6532" y="1512" width="1275" height="1529"/>
+	<SubTexture name="FlowerIdle0009" x="6532" y="1512" width="1275" height="1529"/>
+	<SubTexture name="FlowerIdle0010" x="6532" y="1512" width="1275" height="1529"/>
+	<SubTexture name="FlowerIdle0011" x="6532" y="1512" width="1275" height="1529"/>
+	<SubTexture name="FlowerIdle0012" x="6532" y="1512" width="1275" height="1529"/>
+	<SubTexture name="FlowerIdle0013" x="6532" y="1512" width="1275" height="1529"/>
+	<SubTexture name="FlowerLeft0000" x="13" y="3054" width="1385" height="1535"/>
+	<SubTexture name="FlowerLeft0001" x="1411" y="3054" width="1385" height="1535"/>
+	<SubTexture name="FlowerLeft0002" x="2809" y="3054" width="1385" height="1535"/>
+	<SubTexture name="FlowerLeft0003" x="4207" y="3054" width="1385" height="1535"/>
+	<SubTexture name="FlowerLeft0004" x="5605" y="3054" width="1385" height="1535"/>
+	<SubTexture name="FlowerLeft0005" x="5605" y="3054" width="1385" height="1535"/>
+	<SubTexture name="FlowerLeft0006" x="5605" y="3054" width="1385" height="1535"/>
+	<SubTexture name="FlowerRight0000" x="13" y="4602" width="1369" height="1535"/>
+	<SubTexture name="FlowerRight0001" x="1395" y="4602" width="1369" height="1535"/>
+	<SubTexture name="FlowerRight0002" x="2777" y="4602" width="1369" height="1535"/>
+	<SubTexture name="FlowerRight0003" x="4159" y="4602" width="1369" height="1535"/>
+	<SubTexture name="FlowerRight0004" x="5541" y="4602" width="1369" height="1535"/>
+	<SubTexture name="FlowerRight0005" x="5541" y="4602" width="1369" height="1535"/>
+	<SubTexture name="FlowerRight0006" x="5541" y="4602" width="1369" height="1535"/>
+	<SubTexture name="FlowerRight0007" x="5541" y="4602" width="1369" height="1535"/>
+	<SubTexture name="FlowerUp0000" x="13" y="6150" width="1329" height="1548"/>
+	<SubTexture name="FlowerUp0001" x="1355" y="6150" width="1329" height="1548"/>
+	<SubTexture name="FlowerUp0002" x="2697" y="6150" width="1329" height="1548"/>
+	<SubTexture name="FlowerUp0003" x="4039" y="6150" width="1329" height="1548"/>
+	<SubTexture name="FlowerUp0004" x="5381" y="6150" width="1329" height="1548"/>
+	<SubTexture name="FlowerUp0005" x="5381" y="6150" width="1329" height="1548"/>
+</TextureAtlas>

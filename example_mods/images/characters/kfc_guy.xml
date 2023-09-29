@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="kfc_guy.png">
+<SubTexture name="shitty0000" x="2158" y="0" width="718" height="1082" frameX="-232" frameY="-104" frameWidth="1200" frameHeight="1200" />
+<SubTexture name="shitty0001" x="1438" y="0" width="720" height="1087" frameX="-233" frameY="-99" frameWidth="1200" frameHeight="1200" />
+<SubTexture name="shitty0002" x="717" y="0" width="721" height="1093" frameX="-237" frameY="-93" frameWidth="1200" frameHeight="1200" />
+<SubTexture name="shitty0003" x="0" y="0" width="717" height="1098" frameX="-244" frameY="-88" frameWidth="1200" frameHeight="1200" />
+<SubTexture name="shitty0004" x="0" y="0" width="717" height="1098" frameX="-244" frameY="-88" frameWidth="1200" frameHeight="1200" />
+</TextureAtlas>

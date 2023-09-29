@@ -1,0 +1,49 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-7
+			],
+			"anim": "screech",
+			"fps": 24,
+			"name": "YYYYYAAAAAAAAAHHHH",
+			"indices": []
+		},
+		{
+			"offsets": [
+				1,
+				-7
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [
+				14,
+				15,
+				16
+			],
+			"name": "YYYYYAAAAAAAAAHHHH"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/four_SCREECH",
+	"position": [
+		-110,
+		80
+	],
+	"healthicon": "four",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		153
+	],
+	"camera_position": [
+		150,
+		120
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="mtn_dew_ftm.png">
+<SubTexture name="down0000" x="608" y="860" width="309" height="369" frameX="-94" frameY="-163" frameWidth="492" frameHeight="644" />
+<SubTexture name="down0001" x="297" y="860" width="311" height="392" frameX="-91" frameY="-147" frameWidth="492" frameHeight="644" />
+<SubTexture name="idle0000" x="0" y="443" width="267" height="417" frameX="-93" frameY="-119" frameWidth="492" frameHeight="644" />
+<SubTexture name="left0000" x="1164" y="0" width="293" height="411" frameX="-82" frameY="-128" frameWidth="492" frameHeight="644" />
+<SubTexture name="left0001" x="0" y="860" width="297" height="411" frameX="-87" frameY="-128" frameWidth="492" frameHeight="644" />
+<SubTexture name="miss0000" x="887" y="416" width="206" height="415" frameX="-139" frameY="-120" frameWidth="492" frameHeight="644" />
+<SubTexture name="miss0001" x="267" y="443" width="213" height="417" frameX="-144" frameY="-119" frameWidth="492" frameHeight="644" />
+<SubTexture name="miss0002" x="480" y="443" width="212" height="417" frameX="-148" frameY="-119" frameWidth="492" frameHeight="644" />
+<SubTexture name="right0000" x="887" y="0" width="277" height="416" frameX="-140" frameY="-119" frameWidth="492" frameHeight="644" />
+<SubTexture name="right0001" x="603" y="0" width="284" height="418" frameX="-114" frameY="-119" frameWidth="492" frameHeight="644" />
+<SubTexture name="up0000" x="0" y="0" width="294" height="443" frameX="-95" frameY="-50" frameWidth="492" frameHeight="644" />
+<SubTexture name="up0001" x="294" y="0" width="309" height="424" frameX="-82" frameY="-84" frameWidth="492" frameHeight="644" />
+</TextureAtlas>

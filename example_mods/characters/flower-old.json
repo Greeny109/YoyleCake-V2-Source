@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				85,
+				120
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "flower right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				86,
+				153
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "flower idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				175,
+				159
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "flower down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				92,
+				131
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "flower left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				119,
+				156
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "flower up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/flower_old",
+	"position": [
+		-600,
+		-510
+	],
+	"healthicon": "flower",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		650,
+		510
+	],
+	"sing_duration": 6.1,
+	"scale": 0.4
+}

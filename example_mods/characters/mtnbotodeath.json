@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-53,
+				-50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "BotoDeath0"
+		},
+		{
+			"offsets": [
+				9,
+				91
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "BotoDeathConfirmed"
+		},
+		{
+			"offsets": [
+				-1,
+				55
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "BotoDeathRetry"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MtnDewBotoDeath",
+	"position": [
+		70,
+		-190
+	],
+	"healthicon": "mtn-dew-boto",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-120,
+		91
+	],
+	"sing_duration": 4,
+	"scale": 0.899999999999999
+}

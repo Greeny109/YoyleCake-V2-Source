@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="x_gf.png">
+<SubTexture name="bro hurry up i wanna sing0000" x="0" y="0" width="1334" height="1036" frameX="-347" frameY="-275" frameWidth="2160" frameHeight="1620" />
+</TextureAtlas>

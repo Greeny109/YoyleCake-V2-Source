@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="firey_sprites.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="firey DOWN0000" x="0" y="0" width="819" height="958" frameX="-5" frameY="-52" frameWidth="831" frameHeight="1010"/>
+	<SubTexture name="firey DOWN0001" x="819" y="0" width="819" height="960" frameX="-5" frameY="-50" frameWidth="831" frameHeight="1010"/>
+	<SubTexture name="firey DOWN0002" x="1638" y="0" width="831" height="965" frameX="0" frameY="-45" frameWidth="831" frameHeight="1010"/>
+	<SubTexture name="firey DOWN0003" x="2469" y="0" width="831" height="970" frameX="0" frameY="-40" frameWidth="831" frameHeight="1010"/>
+	<SubTexture name="firey DOWN0004" x="3300" y="0" width="831" height="982" frameX="0" frameY="-28" frameWidth="831" frameHeight="1010"/>
+	<SubTexture name="firey DOWN0005" x="4131" y="0" width="831" height="993" frameX="0" frameY="-17" frameWidth="831" frameHeight="1010"/>
+	<SubTexture name="firey DOWN0006" x="4962" y="0" width="831" height="1004" frameX="0" frameY="-6" frameWidth="831" frameHeight="1010"/>
+	<SubTexture name="firey DOWN0007" x="5793" y="0" width="831" height="1010"/>
+	<SubTexture name="firey DOWN0008" x="6624" y="0" width="831" height="1010"/>
+	<SubTexture name="firey DOWN0009" x="0" y="1010" width="831" height="1004" frameX="0" frameY="-6" frameWidth="831" frameHeight="1010"/>
+	<SubTexture name="firey DOWN0010" x="831" y="1010" width="831" height="988" frameX="0" frameY="-22" frameWidth="831" frameHeight="1010"/>
+	<SubTexture name="firey DOWN0011" x="1662" y="1010" width="831" height="981" frameX="0" frameY="-29" frameWidth="831" frameHeight="1010"/>
+	<SubTexture name="firey DOWN0012" x="2493" y="1010" width="831" height="970" frameX="0" frameY="-40" frameWidth="831" frameHeight="1010"/>
+	<SubTexture name="firey IDLE0000" x="3324" y="1010" width="820" height="946" frameX="0" frameY="-37" frameWidth="820" frameHeight="983"/>
+	<SubTexture name="firey IDLE0001" x="4144" y="1010" width="820" height="982" frameX="0" frameY="-1" frameWidth="820" frameHeight="983"/>
+	<SubTexture name="firey IDLE0002" x="4964" y="1010" width="812" height="983" frameX="-8" frameY="0" frameWidth="820" frameHeight="983"/>
+	<SubTexture name="firey IDLE0003" x="5776" y="1010" width="812" height="976" frameX="-8" frameY="-7" frameWidth="820" frameHeight="983"/>
+	<SubTexture name="firey IDLE0004" x="6588" y="1010" width="795" height="965" frameX="-14" frameY="-18" frameWidth="820" frameHeight="983"/>
+	<SubTexture name="firey IDLE0005" x="7383" y="1010" width="795" height="963" frameX="-14" frameY="-20" frameWidth="820" frameHeight="983"/>
+	<SubTexture name="firey IDLE0006" x="0" y="2014" width="786" height="961" frameX="-18" frameY="-22" frameWidth="820" frameHeight="983"/>
+	<SubTexture name="firey IDLE0007" x="786" y="2014" width="786" height="964" frameX="-18" frameY="-19" frameWidth="820" frameHeight="983"/>
+	<SubTexture name="firey IDLE0008" x="1572" y="2014" width="779" height="961" frameX="-21" frameY="-22" frameWidth="820" frameHeight="983"/>
+	<SubTexture name="firey IDLE0009" x="2351" y="2014" width="779" height="964" frameX="-21" frameY="-19" frameWidth="820" frameHeight="983"/>
+	<SubTexture name="firey IDLE0010" x="3130" y="2014" width="779" height="966" frameX="-21" frameY="-17" frameWidth="820" frameHeight="983"/>
+	<SubTexture name="firey IDLE0011" x="3909" y="2014" width="779" height="971" frameX="-21" frameY="-12" frameWidth="820" frameHeight="983"/>
+	<SubTexture name="firey IDLE0012" x="4688" y="2014" width="779" height="983" frameX="-21" frameY="0" frameWidth="820" frameHeight="983"/>
+	<SubTexture name="firey LEFT0000" x="5467" y="2014" width="822" height="960" frameX="0" frameY="-35" frameWidth="832" frameHeight="995"/>
+	<SubTexture name="firey LEFT0001" x="6289" y="2014" width="824" height="946" frameX="0" frameY="-49" frameWidth="832" frameHeight="995"/>
+	<SubTexture name="firey LEFT0002" x="7113" y="2014" width="826" height="951" frameX="-4" frameY="-44" frameWidth="832" frameHeight="995"/>
+	<SubTexture name="firey LEFT0003" x="0" y="2997" width="826" height="966" frameX="-4" frameY="-29" frameWidth="832" frameHeight="995"/>
+	<SubTexture name="firey LEFT0004" x="826" y="2997" width="826" height="986" frameX="-4" frameY="-9" frameWidth="832" frameHeight="995"/>
+	<SubTexture name="firey LEFT0005" x="1652" y="2997" width="825" height="985" frameX="-4" frameY="-10" frameWidth="832" frameHeight="995"/>
+	<SubTexture name="firey LEFT0006" x="2477" y="2997" width="828" height="991" frameX="-4" frameY="-4" frameWidth="832" frameHeight="995"/>
+	<SubTexture name="firey LEFT0007" x="3305" y="2997" width="821" height="992" frameX="-4" frameY="-3" frameWidth="832" frameHeight="995"/>
+	<SubTexture name="firey LEFT0008" x="4126" y="2997" width="821" height="985" frameX="-4" frameY="-10" frameWidth="832" frameHeight="995"/>
+	<SubTexture name="firey LEFT0009" x="4947" y="2997" width="821" height="967" frameX="-4" frameY="-28" frameWidth="832" frameHeight="995"/>
+	<SubTexture name="firey LEFT0010" x="5768" y="2997" width="822" height="960" frameX="-4" frameY="-35" frameWidth="832" frameHeight="995"/>
+	<SubTexture name="firey LEFT0011" x="6590" y="2997" width="826" height="957" frameX="-4" frameY="-38" frameWidth="832" frameHeight="995"/>
+	<SubTexture name="firey LEFT0012" x="0" y="3989" width="821" height="995" frameX="-4" frameY="0" frameWidth="832" frameHeight="995"/>
+	<SubTexture name="firey RIGHT0000" x="821" y="3989" width="800" height="951" frameX="-7" frameY="-45" frameWidth="808" frameHeight="996"/>
+	<SubTexture name="firey RIGHT0001" x="1621" y="3989" width="801" height="956" frameX="-7" frameY="-40" frameWidth="808" frameHeight="996"/>
+	<SubTexture name="firey RIGHT0002" x="2422" y="3989" width="802" height="963" frameX="0" frameY="-33" frameWidth="808" frameHeight="996"/>
+	<SubTexture name="firey RIGHT0003" x="3224" y="3989" width="802" height="949" frameX="0" frameY="-47" frameWidth="808" frameHeight="996"/>
+	<SubTexture name="firey RIGHT0004" x="4026" y="3989" width="803" height="951" frameX="0" frameY="-45" frameWidth="808" frameHeight="996"/>
+	<SubTexture name="firey RIGHT0005" x="4829" y="3989" width="804" height="956" frameX="0" frameY="-40" frameWidth="808" frameHeight="996"/>
+	<SubTexture name="firey RIGHT0006" x="5633" y="3989" width="804" height="968" frameX="0" frameY="-28" frameWidth="808" frameHeight="996"/>
+	<SubTexture name="firey RIGHT0007" x="6437" y="3989" width="808" height="984" frameX="0" frameY="-12" frameWidth="808" frameHeight="996"/>
+	<SubTexture name="firey RIGHT0008" x="7245" y="3989" width="803" height="990" frameX="0" frameY="-6" frameWidth="808" frameHeight="996"/>
+	<SubTexture name="firey RIGHT0009" x="0" y="4984" width="805" height="993" frameX="0" frameY="-3" frameWidth="808" frameHeight="996"/>
+	<SubTexture name="firey RIGHT0010" x="805" y="4984" width="800" height="996" frameX="0" frameY="0" frameWidth="808" frameHeight="996"/>
+	<SubTexture name="firey RIGHT0011" x="1605" y="4984" width="800" height="990" frameX="0" frameY="-6" frameWidth="808" frameHeight="996"/>
+	<SubTexture name="firey RIGHT0012" x="2405" y="4984" width="800" height="972" frameX="0" frameY="-24" frameWidth="808" frameHeight="996"/>
+	<SubTexture name="firey UP0000" x="3205" y="4984" width="953" height="980" frameX="-4" frameY="-30" frameWidth="961" frameHeight="1010"/>
+	<SubTexture name="firey UP0001" x="4158" y="4984" width="953" height="958" frameX="-4" frameY="-52" frameWidth="961" frameHeight="1010"/>
+	<SubTexture name="firey UP0002" x="5111" y="4984" width="961" height="961" frameX="0" frameY="-49" frameWidth="961" frameHeight="1010"/>
+	<SubTexture name="firey UP0003" x="6072" y="4984" width="961" height="981" frameX="0" frameY="-29" frameWidth="961" frameHeight="1010"/>
+	<SubTexture name="firey UP0004" x="7033" y="4984" width="961" height="1001" frameX="0" frameY="-9" frameWidth="961" frameHeight="1010"/>
+	<SubTexture name="firey UP0005" x="0" y="5985" width="961" height="993" frameX="0" frameY="-17" frameWidth="961" frameHeight="1010"/>
+	<SubTexture name="firey UP0006" x="961" y="5985" width="961" height="1006" frameX="0" frameY="-4" frameWidth="961" frameHeight="1010"/>
+	<SubTexture name="firey UP0007" x="1922" y="5985" width="961" height="1003" frameX="0" frameY="-7" frameWidth="961" frameHeight="1010"/>
+	<SubTexture name="firey UP0008" x="2883" y="5985" width="961" height="993" frameX="0" frameY="-17" frameWidth="961" frameHeight="1010"/>
+	<SubTexture name="firey UP0009" x="3844" y="5985" width="961" height="976" frameX="0" frameY="-34" frameWidth="961" frameHeight="1010"/>
+	<SubTexture name="firey UP0010" x="4805" y="5985" width="961" height="969" frameX="0" frameY="-41" frameWidth="961" frameHeight="1010"/>
+	<SubTexture name="firey UP0011" x="5766" y="5985" width="961" height="973" frameX="0" frameY="-37" frameWidth="961" frameHeight="1010"/>
+	<SubTexture name="firey UP0012" x="6727" y="5985" width="961" height="1010"/>
+</TextureAtlas>

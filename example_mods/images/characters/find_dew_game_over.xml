@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="find_dew_game_over.png">
+<SubTexture name="find_dew_game_over firstDeath0000" x="983" y="0" width="264" height="427" frameX="-115" frameY="-111" frameWidth="492" frameHeight="644" />
+<SubTexture name="find_dew_game_over firstDeath0001" x="0" y="644" width="325" height="392" frameX="-87" frameY="-146" frameWidth="492" frameHeight="644" />
+<SubTexture name="find_dew_game_over firstDeath0002" x="325" y="644" width="375" height="370" frameX="-54" frameY="-169" frameWidth="492" frameHeight="644" />
+<SubTexture name="find_dew_game_over firstDeath0003" x="700" y="644" width="415" height="369" frameX="-27" frameY="-184" frameWidth="492" frameHeight="644" />
+<SubTexture name="find_dew_game_over firstDeath0004" x="0" y="1036" width="427" height="296" frameX="-34" frameY="-257" frameWidth="492" frameHeight="644" />
+<SubTexture name="find_dew_game_over firstDeath0005" x="1247" y="0" width="425" height="300" frameX="-34" frameY="-253" frameWidth="492" frameHeight="644" />
+<SubTexture name="find_dew_game_over firstDeath0006" x="427" y="1036" width="434" height="284" frameX="-34" frameY="-269" frameWidth="492" frameHeight="644" />
+<SubTexture name="find_dew_game_over firstDeath0007" x="861" y="1036" width="458" height="284" frameX="-34" frameY="-269" frameWidth="492" frameHeight="644" />
+<SubTexture name="find_dew_game_over firstDeath0008" x="0" y="1332" width="457" height="284" frameX="-34" frameY="-269" frameWidth="492" frameHeight="644" />
+<SubTexture name="find_dew_game_over firstDeath0009" x="0" y="1332" width="457" height="284" frameX="-34" frameY="-269" frameWidth="492" frameHeight="644" />
+<SubTexture name="find_dew_game_over firstDeath0010" x="0" y="1332" width="457" height="284" frameX="-34" frameY="-269" frameWidth="492" frameHeight="644" />
+<SubTexture name="find_dew_game_over firstDeath0011" x="0" y="0" width="492" height="644" frameX="0" frameY="0" frameWidth="492" frameHeight="644" />
+<SubTexture name="find_dew_game_over firstDeath0012" x="0" y="1332" width="457" height="284" frameX="-34" frameY="-269" frameWidth="492" frameHeight="644" />
+<SubTexture name="find_dew_game_over firstDeath0013" x="0" y="0" width="492" height="644" frameX="0" frameY="0" frameWidth="492" frameHeight="644" />
+<SubTexture name="find_dew_game_over firstDeath0014" x="0" y="1332" width="457" height="284" frameX="-34" frameY="-269" frameWidth="492" frameHeight="644" />
+<SubTexture name="find_dew_game_over firstDeath0015" x="0" y="0" width="492" height="644" frameX="0" frameY="0" frameWidth="492" frameHeight="644" />
+<SubTexture name="find_dew_game_over firstDeath0016" x="0" y="0" width="492" height="644" frameX="0" frameY="0" frameWidth="492" frameHeight="644" />
+<SubTexture name="find_dew_game_over firstDeath0017" x="0" y="0" width="492" height="644" frameX="0" frameY="0" frameWidth="492" frameHeight="644" />
+<SubTexture name="find_dew_game_over firstDeath0018" x="1493" y="346" width="63" height="23" frameX="-224" frameY="-266" frameWidth="492" frameHeight="644" />
+<SubTexture name="find_dew_game_over firstDeath0019" x="1493" y="300" width="126" height="46" frameX="-186" frameY="-254" frameWidth="492" frameHeight="644" />
+<SubTexture name="find_dew_game_over firstDeath0020" x="457" y="1332" width="452" height="162" frameX="-26" frameY="-207" frameWidth="492" frameHeight="644" />
+<SubTexture name="find_dew_game_over firstDeath0021" x="1247" y="527" width="322" height="115" frameX="-100" frameY="-219" frameWidth="492" frameHeight="644" />
+<SubTexture name="find_dew_game_over firstDeath0022" x="1247" y="527" width="322" height="115" frameX="-100" frameY="-219" frameWidth="492" frameHeight="644" />
+<SubTexture name="find_dew_game_over retry0000" x="1247" y="642" width="223" height="80" frameX="-142" frameY="-234" frameWidth="492" frameHeight="644" />
+<SubTexture name="find_dew_game_over retry0001" x="457" y="1332" width="452" height="162" frameX="-26" frameY="-207" frameWidth="492" frameHeight="644" />
+<SubTexture name="find_dew_game_over retry0002" x="1247" y="527" width="322" height="115" frameX="-100" frameY="-219" frameWidth="492" frameHeight="644" />
+<SubTexture name="find_dew_game_over retry0003" x="1247" y="527" width="322" height="115" frameX="-100" frameY="-219" frameWidth="492" frameHeight="644" />
+<SubTexture name="find_dew_game_over retry0004" x="1247" y="527" width="322" height="115" frameX="-100" frameY="-219" frameWidth="492" frameHeight="644" />
+<SubTexture name="find_dew_game_over retry0005" x="1247" y="527" width="322" height="115" frameX="-100" frameY="-219" frameWidth="492" frameHeight="644" />
+<SubTexture name="find_dew_game_over deathConfirm0000" x="1247" y="300" width="246" height="227" frameX="-127" frameY="-313" frameWidth="492" frameHeight="644" />
+<SubTexture name="find_dew_game_over deathConfirm0001" x="492" y="0" width="246" height="537" frameX="-127" frameY="-3" frameWidth="492" frameHeight="644" />
+<SubTexture name="find_dew_game_over deathConfirm0002" x="738" y="0" width="245" height="460" frameX="-128" frameY="-80" frameWidth="492" frameHeight="644" />
+</TextureAtlas>

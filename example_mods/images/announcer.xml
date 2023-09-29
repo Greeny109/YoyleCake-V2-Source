@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="announcer.png">
+<SubTexture name="announcer speaky speaky0000" x="0" y="0" width="1000" height="1415" frameX="0" frameY="0" frameWidth="1000" frameHeight="1415" />
+<SubTexture name="announcer speaky speaky0001" x="1000" y="0" width="1000" height="1415" frameX="0" frameY="0" frameWidth="1000" frameHeight="1415" />
+<SubTexture name="announcer speaky speaky0002" x="2000" y="0" width="1000" height="1415" frameX="0" frameY="0" frameWidth="1000" frameHeight="1415" />
+<SubTexture name="announcer speaky speaky0003" x="1000" y="0" width="1000" height="1415" frameX="0" frameY="0" frameWidth="1000" frameHeight="1415" />
+<SubTexture name="announcer speaky speaky0004" x="0" y="0" width="1000" height="1415" frameX="0" frameY="0" frameWidth="1000" frameHeight="1415" />
+</TextureAtlas>

@@ -1,0 +1,127 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				-1
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				-1
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-6,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [
+				0,
+				1,
+				2,
+				4
+			],
+			"name": "idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				3
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 12,
+			"name": "3 miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				42,
+				8
+			],
+			"anim": "singDOWNmiss",
+			"fps": 12,
+			"name": "1 miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-13,
+				0
+			],
+			"anim": "singLEFTmiss",
+			"fps": 12,
+			"name": "2 miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				7
+			],
+			"anim": "singUPmiss",
+			"fps": 12,
+			"name": "4 miss",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/mtn_dew_boto",
+	"position": [
+		140,
+		280
+	],
+	"healthicon": "mtn-dew-boto",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		114,
+		255
+	],
+	"camera_position": [
+		330,
+		-120
+	],
+	"sing_duration": 4,
+	"scale": 1.8
+}

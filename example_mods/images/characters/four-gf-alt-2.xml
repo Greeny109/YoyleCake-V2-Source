@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="four-gf-alt-2.png">
+<SubTexture name="GOD FUCKING DAMN IT BRO0000" x="0" y="0" width="2048" height="1745" frameX="0" frameY="-124" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="GOD FUCKING DAMN IT BRO0001" x="2048" y="0" width="2048" height="1655" frameX="0" frameY="-214" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="GOD FUCKING DAMN IT BRO0002" x="4096" y="0" width="2048" height="1607" frameX="0" frameY="-261" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="GOD FUCKING DAMN IT BRO0003" x="4096" y="1607" width="2048" height="1590" frameX="0" frameY="-278" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="GOD FUCKING DAMN IT BRO0004" x="0" y="3398" width="2048" height="1588" frameX="0" frameY="-280" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="GOD FUCKING DAMN IT BRO0005" x="0" y="3398" width="2048" height="1588" frameX="0" frameY="-280" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="GOD FUCKING DAMN IT BRO0006" x="2663" y="1745" width="1195" height="1650" frameX="-367" frameY="-319" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="GOD FUCKING DAMN IT BRO0007" x="0" y="1745" width="1320" height="1653" frameX="-346" frameY="-315" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="GOD FUCKING DAMN IT BRO0008" x="1320" y="1745" width="1343" height="1652" frameX="-340" frameY="-314" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="GOD FUCKING DAMN IT BRO0009" x="1320" y="1745" width="1343" height="1652" frameX="-340" frameY="-314" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="GOD FUCKING DAMN IT BRO0010" x="1320" y="1745" width="1343" height="1652" frameX="-340" frameY="-314" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="GOD FUCKING DAMN IT BRO0011" x="1320" y="1745" width="1343" height="1652" frameX="-340" frameY="-314" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="GOD FUCKING DAMN IT BRO0012" x="1320" y="1745" width="1343" height="1652" frameX="-340" frameY="-314" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="GOD FUCKING DAMN IT BRO0013" x="1320" y="1745" width="1343" height="1652" frameX="-340" frameY="-314" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="GOD FUCKING DAMN IT BRO0014" x="1320" y="1745" width="1343" height="1652" frameX="-340" frameY="-314" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="GOD FUCKING DAMN IT BRO0015" x="1320" y="1745" width="1343" height="1652" frameX="-340" frameY="-314" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="GOD FUCKING DAMN IT BRO0016" x="1320" y="1745" width="1343" height="1652" frameX="-340" frameY="-314" frameWidth="2048" frameHeight="2048" />
+</TextureAtlas>

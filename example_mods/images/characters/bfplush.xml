@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bfplush.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bf down0000" x="0" y="0" width="647" height="804" frameX="0" frameY="-25" frameWidth="647" frameHeight="840"/>
+	<SubTexture name="bf down0001" x="647" y="0" width="632" height="840" frameX="-8" frameY="0" frameWidth="647" frameHeight="840"/>
+	<SubTexture name="bf idle0000" x="1279" y="0" width="632" height="840"/>
+	<SubTexture name="bf left0000" x="1911" y="0" width="1082" height="1002" frameX="0" frameY="-4" frameWidth="1082" frameHeight="1008"/>
+	<SubTexture name="bf left0001" x="2993" y="0" width="1076" height="1008" frameX="-4" frameY="0" frameWidth="1082" frameHeight="1008"/>
+	<SubTexture name="bf right0000" x="4069" y="0" width="851" height="1101" frameX="-1" frameY="0" frameWidth="852" frameHeight="1101"/>
+	<SubTexture name="bf right0001" x="4920" y="0" width="829" height="1101" frameX="0" frameY="0" frameWidth="852" frameHeight="1101"/>
+	<SubTexture name="bf up0000" x="5749" y="0" width="739" height="1008" frameX="0" frameY="0" frameWidth="739" frameHeight="1013"/>
+	<SubTexture name="bf up0001" x="6488" y="0" width="731" height="994" frameX="-1" frameY="-19" frameWidth="739" frameHeight="1013"/>
+	<SubTexture name="miss down0000" x="7219" y="0" width="627" height="856"/>
+	<SubTexture name="miss down0001" x="0" y="1101" width="627" height="836" frameX="0" frameY="-17" frameWidth="627" frameHeight="856"/>
+	<SubTexture name="miss left0000" x="627" y="1101" width="1170" height="1170" frameX="0" frameY="-5" frameWidth="1170" frameHeight="1175"/>
+	<SubTexture name="miss left0001" x="1797" y="1101" width="1077" height="1175" frameX="-93" frameY="0" frameWidth="1170" frameHeight="1175"/>
+	<SubTexture name="miss right0000" x="2874" y="1101" width="1079" height="832" frameX="-1" frameY="0" frameWidth="1080" frameHeight="832"/>
+	<SubTexture name="miss right0001" x="3953" y="1101" width="1042" height="828" frameX="0" frameY="0" frameWidth="1080" frameHeight="832"/>
+	<SubTexture name="miss up0000" x="4995" y="1101" width="752" height="1035"/>
+	<SubTexture name="miss up0001" x="5747" y="1101" width="750" height="978" frameX="0" frameY="-57" frameWidth="752" frameHeight="1035"/>
+</TextureAtlas>

@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-53,
+				-50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "firstDeath"
+		},
+		{
+			"offsets": [
+				-53,
+				-50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "RetryLoop"
+		},
+		{
+			"offsets": [
+				-53,
+				-49
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "RetryLoop"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/WrappaDeath",
+	"position": [
+		-1030,
+		-770
+	],
+	"healthicon": "wrappa",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-120,
+		91
+	],
+	"sing_duration": 4,
+	"scale": 0.399999999999999
+}

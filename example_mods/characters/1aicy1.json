@@ -1,0 +1,285 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-52,
+				161
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "IcyBIdle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-27,
+				162
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "IcyBLeft"
+		},
+		{
+			"offsets": [
+				-114,
+				151
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "IcyBRight"
+		},
+		{
+			"offsets": [
+				-57,
+				184
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "IcyBUp"
+		},
+		{
+			"offsets": [
+				-57,
+				141
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "IcyBDown"
+		},
+		{
+			"offsets": [
+				-50,
+				157
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "IcyGIdle"
+		},
+		{
+			"offsets": [
+				-27,
+				162
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "IcyGLeft"
+		},
+		{
+			"offsets": [
+				-115,
+				151
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "IcyGRight"
+		},
+		{
+			"offsets": [
+				-57,
+				184
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "IcyGUp"
+		},
+		{
+			"offsets": [
+				-58,
+				142
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "IcyGDown"
+		},
+		{
+			"offsets": [
+				-10,
+				170
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "IcyLMiss"
+		},
+		{
+			"offsets": [
+				-126,
+				157
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "IcyRMiss"
+		},
+		{
+			"offsets": [
+				-55,
+				224
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "IcyUMiss"
+		},
+		{
+			"offsets": [
+				29,
+				169
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "IcyDMiss"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-10,
+				170
+			],
+			"anim": "singLEFTmiss-loop",
+			"fps": 24,
+			"name": "IcyLMiss",
+			"indices": [
+				3,
+				4,
+				5,
+				6
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-126,
+				157
+			],
+			"anim": "singRIGHTmiss-loop",
+			"fps": 24,
+			"name": "IcyRMiss",
+			"indices": [
+				3,
+				4,
+				5,
+				6
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-55,
+				224
+			],
+			"anim": "singUPmiss-loop",
+			"fps": 24,
+			"name": "IcyUMiss",
+			"indices": [
+				3,
+				4,
+				5,
+				6
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				29,
+				169
+			],
+			"anim": "singDOWNmiss-loop",
+			"fps": 24,
+			"name": "IcyDMiss",
+			"indices": [
+				3,
+				4,
+				5,
+				6
+			]
+		},
+		{
+			"offsets": [
+				29,
+				169
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss-alt",
+			"loop": false,
+			"name": "IcyDMiss"
+		},
+		{
+			"offsets": [
+				-126,
+				157
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss-alt",
+			"loop": false,
+			"name": "IcyRMiss"
+		},
+		{
+			"offsets": [
+				-10,
+				170
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss-alt",
+			"loop": false,
+			"name": "IcyLMiss"
+		},
+		{
+			"offsets": [
+				-55,
+				224
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss-alt",
+			"loop": false,
+			"name": "IcyUMiss"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/1aIceCube1",
+	"position": [
+		0,
+		300
+	],
+	"healthicon": "ice-cube",
+	"flip_x": true,
+	"healthbar_colors": [
+		204,
+		215,
+		255
+	],
+	"camera_position": [
+		30,
+		-70
+	],
+	"sing_duration": 5,
+	"scale": 0.8
+}

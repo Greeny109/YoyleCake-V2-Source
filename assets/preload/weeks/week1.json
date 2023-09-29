@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["?????", "dad", [146, 113, 253]],
+		["???", "dad", [146, 113, 253]],
+		["????", "dad", [146, 113, 253]]
+	],
+
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage2",
+
+	"storyName": "Daddy Dearest",
+	"weekBefore": "tutorial",
+	"weekName": "Week 1",
+	"startUnlocked": false,
+
+	"hideStoryMode": false,
+	"hideFreeplay": true
+}

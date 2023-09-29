@@ -1,0 +1,62 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				0
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "MtnDLiterallyDies Deathlol",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				0
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "MtnDLiterallyDies Deathlol",
+			"indices": [
+				31,
+				32
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				0
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "MtnDLiterallyDies Deathlol",
+			"indices": [
+				31,
+				32
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MtnDLiterallyDies",
+	"position": [
+		-840,
+		-200
+	],
+	"healthicon": "mtn-dew-d",
+	"flip_x": true,
+	"healthbar_colors": [
+		204,
+		92,
+		255
+	],
+	"camera_position": [
+		-230,
+		180
+	],
+	"sing_duration": 4,
+	"scale": 0.85
+}

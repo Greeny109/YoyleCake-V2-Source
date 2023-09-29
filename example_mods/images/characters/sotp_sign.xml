@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sotp_sign.png">
+<SubTexture name="down0000" x="4508" y="0" width="1285" height="1701" frameX="-661" frameY="-550" frameWidth="2048" frameHeight="2285" />
+<SubTexture name="down0001" x="3089" y="2239" width="1232" height="1830" frameX="-608" frameY="-421" frameWidth="2048" frameHeight="2285" />
+<SubTexture name="idle0000" x="0" y="2239" width="978" height="2149" frameX="-560" frameY="-111" frameWidth="2048" frameHeight="2285" />
+<SubTexture name="left0000" x="3359" y="0" width="1149" height="2152" frameX="-229" frameY="-104" frameWidth="2048" frameHeight="2285" />
+<SubTexture name="left0001" x="1989" y="2239" width="1100" height="2140" frameX="-352" frameY="-115" frameWidth="2048" frameHeight="2285" />
+<SubTexture name="right0000" x="978" y="2239" width="1011" height="2143" frameX="-731" frameY="-104" frameWidth="2048" frameHeight="2285" />
+<SubTexture name="right0001" x="2364" y="0" width="995" height="2166" frameX="-563" frameY="-82" frameWidth="2048" frameHeight="2285" />
+<SubTexture name="up0000" x="0" y="0" width="1182" height="2239" frameX="-545" frameY="-13" frameWidth="2048" frameHeight="2285" />
+<SubTexture name="up0001" x="1182" y="0" width="1182" height="2168" frameX="-545" frameY="-84" frameWidth="2048" frameHeight="2285" />
+</TextureAtlas>

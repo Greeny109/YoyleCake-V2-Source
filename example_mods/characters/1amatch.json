@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-100,
+				332
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "MIdle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-66,
+				332
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "MLeft",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-114,
+				330
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "MRight",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-65,
+				354
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "MUp",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-97,
+				326
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "MDown",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-100,
+				336
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Yeah",
+			"indices": [],
+			"name": "MYIK"
+		},
+		{
+			"offsets": [
+				-100,
+				350
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Oh",
+			"indices": [],
+			"name": "MOFS"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/1aMatch",
+	"position": [
+		0,
+		300
+	],
+	"healthicon": "match",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		56,
+		25
+	],
+	"camera_position": [
+		160,
+		-180
+	],
+	"sing_duration": 5,
+	"scale": 0.8
+}

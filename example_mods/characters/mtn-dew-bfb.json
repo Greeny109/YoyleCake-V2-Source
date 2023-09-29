@@ -1,0 +1,153 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				-12
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "downMISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				-10
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "leftMISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				11
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "upMISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				-10
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				-12
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				8
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				-9
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				16,
+				-10
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				12,
+				-8
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "rightMISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				530,
+				11
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "dizzy",
+			"indices": [
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24
+			]
+		},
+		{
+			"offsets": [
+				530,
+				14
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "dizzy",
+			"loop": false,
+			"name": "dizzy"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mtn_dew_bfb",
+	"position": [
+		110,
+		160
+	],
+	"healthicon": "mtn-dew-bfb",
+	"flip_x": true,
+	"healthbar_colors": [
+		75,
+		175,
+		179
+	],
+	"camera_position": [
+		520,
+		-30
+	],
+	"sing_duration": 4,
+	"scale": 1.4
+}

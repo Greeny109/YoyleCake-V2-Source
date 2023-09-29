@@ -1,0 +1,141 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"FadeIn",
+						"9",
+						"sineInOut"
+					]
+				]
+			],
+			[
+				2625,
+				[
+					[
+						"Play Animation",
+						"Yeah",
+						"Dad"
+					]
+				]
+			],
+			[
+				6375,
+				[
+					[
+						"Play Animation",
+						"Really",
+						"BF"
+					],
+					[
+						"Set Cam Zoom",
+						"cur,0.5",
+						"1.25,sineOut"
+					]
+				]
+			],
+			[
+				9291.66666666667,
+				[
+					[
+						"Play Animation",
+						"Oh",
+						"Dad"
+					],
+					[
+						"Set Cam Zoom",
+						"cur,-0.5",
+						"1,quadInOut"
+					]
+				]
+			],
+			[
+				42333.3333333333,
+				[
+					[
+						"Change Scroll Speed",
+						"0.8",
+						"0.5"
+					]
+				]
+			],
+			[
+				42666.6666666667,
+				[
+					[
+						"Flash Camera",
+						"1.2",
+						""
+					],
+					[
+						"Change Character",
+						"1",
+						"1aflower1"
+					],
+					[
+						"Change Character",
+						"0",
+						"1aicy1"
+					]
+				]
+			],
+			[
+				53000,
+				[
+					[
+						"Change Scroll Speed",
+						"0.8",
+						"0.5"
+					]
+				]
+			],
+			[
+				63666.6666666667,
+				[
+					[
+						"Change Scroll Speed",
+						"1.1",
+						"0.5"
+					]
+				]
+			],
+			[
+				64000,
+				[
+					[
+						"Flash Camera",
+						"1.2",
+						""
+					],
+					[
+						"Change Character",
+						"1",
+						"DEVInvis"
+					]
+				]
+			],
+			[
+				72500,
+				[
+					[
+						"Alt Idle Animation",
+						"BF",
+						"-alt"
+					]
+				]
+			],
+			[
+				85333.3333333333,
+				[
+					[
+						"Flash Camera",
+						"1.2",
+						""
+					]
+				]
+			]
+		]
+	}
+}

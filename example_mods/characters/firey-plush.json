@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				-2
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "firyey idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-38,
+				-41
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "firyey right"
+		},
+		{
+			"offsets": [
+				1,
+				-40
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "firyey down"
+		},
+		{
+			"offsets": [
+				-6,
+				-30
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "firyey idkman"
+		},
+		{
+			"offsets": [
+				53,
+				-29
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "firyey singleft"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/firyey",
+	"position": [
+		30,
+		230
+	],
+	"healthicon": "firey-plush",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		77,
+		0
+	],
+	"camera_position": [
+		150,
+		80
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

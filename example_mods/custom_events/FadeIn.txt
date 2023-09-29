@@ -1,0 +1,4 @@
+FadesInIDK
+
+Value 1: speed
+Value 2: ease type

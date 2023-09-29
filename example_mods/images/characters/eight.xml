@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="eight.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="8 down0000" x="10" y="10" width="320" height="386" frameX="-5" frameY="-8" frameWidth="326" frameHeight="394"/>
+	<SubTexture name="8 down0001" x="341" y="10" width="322" height="389" frameX="-3" frameY="-5" frameWidth="326" frameHeight="394"/>
+	<SubTexture name="8 down0002" x="674" y="10" width="325" height="391" frameX="-1" frameY="-3" frameWidth="326" frameHeight="394"/>
+	<SubTexture name="8 down0003" x="1010" y="10" width="326" height="393" frameX="0" frameY="-1" frameWidth="326" frameHeight="394"/>
+	<SubTexture name="8 down0004" x="1347" y="10" width="326" height="394"/>
+	<SubTexture name="8 down0005" x="1684" y="10" width="326" height="394"/>
+	<SubTexture name="8 idle0000" x="2021" y="10" width="358" height="439" frameX="-10" frameY="0" frameWidth="385" frameHeight="439"/>
+	<SubTexture name="8 idle0001" x="2390" y="10" width="360" height="438" frameX="-9" frameY="-1" frameWidth="385" frameHeight="439"/>
+	<SubTexture name="8 idle0002" x="2761" y="10" width="365" height="435" frameX="-7" frameY="-4" frameWidth="385" frameHeight="439"/>
+	<SubTexture name="8 idle0003" x="3137" y="10" width="374" height="429" frameX="-4" frameY="-10" frameWidth="385" frameHeight="439"/>
+	<SubTexture name="8 idle0004" x="3522" y="10" width="385" height="420" frameX="0" frameY="-19" frameWidth="385" frameHeight="439"/>
+	<SubTexture name="8 idle0005" x="10" y="460" width="374" height="429" frameX="-4" frameY="-10" frameWidth="385" frameHeight="439"/>
+	<SubTexture name="8 idle0006" x="395" y="460" width="365" height="435" frameX="-7" frameY="-4" frameWidth="385" frameHeight="439"/>
+	<SubTexture name="8 idle0007" x="771" y="460" width="360" height="438" frameX="-9" frameY="-1" frameWidth="385" frameHeight="439"/>
+	<SubTexture name="8 idle0008" x="1142" y="460" width="358" height="439" frameX="-10" frameY="0" frameWidth="385" frameHeight="439"/>
+	<SubTexture name="8 left0000" x="1511" y="460" width="399" height="431"/>
+	<SubTexture name="8 left0001" x="1921" y="460" width="388" height="431" frameX="-7" frameY="0" frameWidth="399" frameHeight="431"/>
+	<SubTexture name="8 left0002" x="2320" y="460" width="378" height="431" frameX="-13" frameY="0" frameWidth="399" frameHeight="431"/>
+	<SubTexture name="8 left0003" x="2709" y="460" width="372" height="430" frameX="-17" frameY="-1" frameWidth="399" frameHeight="431"/>
+	<SubTexture name="8 left0004" x="3092" y="460" width="369" height="430" frameX="-19" frameY="-1" frameWidth="399" frameHeight="431"/>
+	<SubTexture name="8 left0005" x="3472" y="460" width="367" height="430" frameX="-20" frameY="-1" frameWidth="399" frameHeight="431"/>
+	<SubTexture name="8 right0000" x="10" y="910" width="368" height="435" frameX="-48" frameY="-18" frameWidth="416" frameHeight="453"/>
+	<SubTexture name="8 right0001" x="389" y="910" width="374" height="438" frameX="-31" frameY="-15" frameWidth="416" frameHeight="453"/>
+	<SubTexture name="8 right0002" x="774" y="910" width="379" height="445" frameX="-17" frameY="-8" frameWidth="416" frameHeight="453"/>
+	<SubTexture name="8 right0003" x="1164" y="910" width="383" height="450" frameX="-7" frameY="-3" frameWidth="416" frameHeight="453"/>
+	<SubTexture name="8 right0004" x="1558" y="910" width="385" height="452" frameX="-1" frameY="-1" frameWidth="416" frameHeight="453"/>
+	<SubTexture name="8 right0005" x="1954" y="910" width="385" height="453" frameX="0" frameY="0" frameWidth="416" frameHeight="453"/>
+	<SubTexture name="8 up0000" x="2350" y="910" width="350" height="532" frameX="0" frameY="0" frameWidth="361" frameHeight="532"/>
+	<SubTexture name="8 up0001" x="2711" y="910" width="354" height="519" frameX="0" frameY="-13" frameWidth="361" frameHeight="532"/>
+	<SubTexture name="8 up0002" x="3076" y="910" width="357" height="510" frameX="0" frameY="-22" frameWidth="361" frameHeight="532"/>
+	<SubTexture name="8 up0003" x="3444" y="910" width="358" height="502" frameX="-1" frameY="-30" frameWidth="361" frameHeight="532"/>
+	<SubTexture name="8 up0004" x="10" y="1453" width="360" height="498" frameX="-1" frameY="-34" frameWidth="361" frameHeight="532"/>
+	<SubTexture name="8 up0005" x="381" y="1453" width="360" height="497" frameX="-1" frameY="-35" frameWidth="361" frameHeight="532"/>
+	<SubTexture name="speak0000" x="752" y="1453" width="358" height="439" frameX="-3" frameY="-1" frameWidth="361" frameHeight="440"/>
+	<SubTexture name="speak0001" x="752" y="1453" width="358" height="439" frameX="-3" frameY="-1" frameWidth="361" frameHeight="440"/>
+	<SubTexture name="speak0002" x="1121" y="1453" width="358" height="439" frameX="-3" frameY="-1" frameWidth="361" frameHeight="440"/>
+	<SubTexture name="speak0003" x="1490" y="1453" width="357" height="440" frameX="-2" frameY="0" frameWidth="361" frameHeight="440"/>
+	<SubTexture name="speak0004" x="1858" y="1453" width="358" height="440" frameX="0" frameY="0" frameWidth="361" frameHeight="440"/>
+	<SubTexture name="speak0005" x="2227" y="1453" width="358" height="440" frameX="0" frameY="0" frameWidth="361" frameHeight="440"/>
+	<SubTexture name="speak0006" x="2596" y="1453" width="358" height="440" frameX="0" frameY="0" frameWidth="361" frameHeight="440"/>
+	<SubTexture name="speak0007" x="2965" y="1453" width="358" height="440" frameX="0" frameY="0" frameWidth="361" frameHeight="440"/>
+	<SubTexture name="speak0008" x="2965" y="1453" width="358" height="440" frameX="0" frameY="0" frameWidth="361" frameHeight="440"/>
+	<SubTexture name="speak0009" x="2965" y="1453" width="358" height="440" frameX="0" frameY="0" frameWidth="361" frameHeight="440"/>
+	<SubTexture name="speak0010" x="2965" y="1453" width="358" height="440" frameX="0" frameY="0" frameWidth="361" frameHeight="440"/>
+	<SubTexture name="speak0011" x="3334" y="1453" width="358" height="440" frameX="0" frameY="0" frameWidth="361" frameHeight="440"/>
+	<SubTexture name="speak0012" x="3703" y="1453" width="340" height="432" frameX="-13" frameY="-8" frameWidth="361" frameHeight="440"/>
+	<SubTexture name="speak0013" x="10" y="1962" width="339" height="430" frameX="-17" frameY="-10" frameWidth="361" frameHeight="440"/>
+	<SubTexture name="speak0014" x="360" y="1962" width="340" height="429" frameX="-19" frameY="-11" frameWidth="361" frameHeight="440"/>
+	<SubTexture name="speak0015" x="711" y="1962" width="341" height="428" frameX="-19" frameY="-12" frameWidth="361" frameHeight="440"/>
+	<SubTexture name="speak0016" x="1063" y="1962" width="341" height="428" frameX="-19" frameY="-12" frameWidth="361" frameHeight="440"/>
+	<SubTexture name="speak0017" x="1415" y="1962" width="341" height="428" frameX="-19" frameY="-12" frameWidth="361" frameHeight="440"/>
+	<SubTexture name="speak0018" x="1767" y="1962" width="341" height="428" frameX="-19" frameY="-12" frameWidth="361" frameHeight="440"/>
+	<SubTexture name="speak0019" x="2119" y="1962" width="341" height="428" frameX="-19" frameY="-12" frameWidth="361" frameHeight="440"/>
+	<SubTexture name="speak0020" x="2471" y="1962" width="341" height="428" frameX="-19" frameY="-12" frameWidth="361" frameHeight="440"/>
+	<SubTexture name="speak0021" x="2471" y="1962" width="341" height="428" frameX="-19" frameY="-12" frameWidth="361" frameHeight="440"/>
+	<SubTexture name="speak0022" x="2823" y="1962" width="341" height="428" frameX="-19" frameY="-12" frameWidth="361" frameHeight="440"/>
+	<SubTexture name="speak0023" x="3175" y="1962" width="341" height="428" frameX="-19" frameY="-12" frameWidth="361" frameHeight="440"/>
+	<SubTexture name="speak0024" x="3527" y="1962" width="341" height="428" frameX="-19" frameY="-12" frameWidth="361" frameHeight="440"/>
+	<SubTexture name="speak0025" x="10" y="2403" width="341" height="428" frameX="-19" frameY="-12" frameWidth="361" frameHeight="440"/>
+	<SubTexture name="speak0026" x="362" y="2403" width="341" height="428" frameX="-19" frameY="-12" frameWidth="361" frameHeight="440"/>
+	<SubTexture name="speak0027" x="714" y="2403" width="341" height="428" frameX="-19" frameY="-12" frameWidth="361" frameHeight="440"/>
+	<SubTexture name="speak0028" x="1066" y="2403" width="341" height="428" frameX="-19" frameY="-12" frameWidth="361" frameHeight="440"/>
+	<SubTexture name="speak0029" x="1418" y="2403" width="341" height="428" frameX="-19" frameY="-12" frameWidth="361" frameHeight="440"/>
+	<SubTexture name="speak0030" x="1770" y="2403" width="341" height="428" frameX="-19" frameY="-12" frameWidth="361" frameHeight="440"/>
+	<SubTexture name="speak0031" x="2122" y="2403" width="341" height="428" frameX="-19" frameY="-12" frameWidth="361" frameHeight="440"/>
+	<SubTexture name="speak0032" x="2474" y="2403" width="341" height="428" frameX="-19" frameY="-12" frameWidth="361" frameHeight="440"/>
+</TextureAtlas>

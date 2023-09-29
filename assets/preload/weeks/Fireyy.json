@@ -1,0 +1,59 @@
+{
+	"songs": [
+		[
+			"Zeeky Boogy Doog",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Skidoo",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Yoyleberries",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Bug Intolerance",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": true,
+	"weekBackground": "stage",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Your New Week",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

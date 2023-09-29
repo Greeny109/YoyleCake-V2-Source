@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="MtnDLiterallyDies.png">
+<SubTexture name="MtnDLiterallyDies Deathlol0000" x="0" y="0" width="472" height="987" frameX="-1046" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="MtnDLiterallyDies Deathlol0001" x="472" y="0" width="472" height="952" frameX="-1046" frameY="-35" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="MtnDLiterallyDies Deathlol0002" x="944" y="0" width="472" height="927" frameX="-1046" frameY="-60" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="MtnDLiterallyDies Deathlol0003" x="1416" y="0" width="472" height="912" frameX="-1046" frameY="-75" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="MtnDLiterallyDies Deathlol0004" x="1081" y="987" width="472" height="904" frameX="-1046" frameY="-83" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="MtnDLiterallyDies Deathlol0005" x="2409" y="0" width="472" height="901" frameX="-1046" frameY="-86" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="MtnDLiterallyDies Deathlol0006" x="2409" y="901" width="472" height="901" frameX="-1046" frameY="-86" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="MtnDLiterallyDies Deathlol0007" x="2409" y="901" width="472" height="901" frameX="-1046" frameY="-86" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="MtnDLiterallyDies Deathlol0008" x="2409" y="901" width="472" height="901" frameX="-1046" frameY="-86" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="MtnDLiterallyDies Deathlol0009" x="2409" y="901" width="472" height="901" frameX="-1046" frameY="-86" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="MtnDLiterallyDies Deathlol0010" x="2409" y="901" width="472" height="901" frameX="-1046" frameY="-86" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="MtnDLiterallyDies Deathlol0011" x="2409" y="901" width="472" height="901" frameX="-1046" frameY="-86" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="MtnDLiterallyDies Deathlol0012" x="0" y="1895" width="472" height="901" frameX="-1046" frameY="-86" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="MtnDLiterallyDies Deathlol0013" x="944" y="1895" width="472" height="900" frameX="-1046" frameY="-85" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="MtnDLiterallyDies Deathlol0014" x="472" y="1895" width="472" height="901" frameX="-1045" frameY="-82" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="MtnDLiterallyDies Deathlol0015" x="1553" y="987" width="472" height="904" frameX="-1043" frameY="-76" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="MtnDLiterallyDies Deathlol0016" x="603" y="987" width="478" height="907" frameX="-1032" frameY="-69" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="MtnDLiterallyDies Deathlol0017" x="1888" y="0" width="521" height="911" frameX="-980" frameY="-59" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="MtnDLiterallyDies Deathlol0018" x="0" y="987" width="603" height="908" frameX="-881" frameY="-54" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="MtnDLiterallyDies Deathlol0019" x="1416" y="1895" width="700" height="885" frameX="-753" frameY="-66" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="MtnDLiterallyDies Deathlol0020" x="2881" y="0" width="800" height="838" frameX="-601" frameY="-113" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="MtnDLiterallyDies Deathlol0021" x="0" y="2796" width="881" height="747" frameX="-439" frameY="-217" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="MtnDLiterallyDies Deathlol0022" x="881" y="2796" width="907" height="481" frameX="-224" frameY="-516" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="MtnDLiterallyDies Deathlol0023" x="1788" y="2796" width="899" height="472" frameX="-208" frameY="-529" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="MtnDLiterallyDies Deathlol0024" x="1788" y="2796" width="899" height="472" frameX="-208" frameY="-529" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="MtnDLiterallyDies Deathlol0025" x="1788" y="2796" width="899" height="472" frameX="-208" frameY="-529" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="MtnDLiterallyDies Deathlol0026" x="1788" y="2796" width="899" height="472" frameX="-208" frameY="-529" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="MtnDLiterallyDies Deathlol0027" x="1788" y="2796" width="899" height="472" frameX="-208" frameY="-529" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="MtnDLiterallyDies Deathlol0028" x="1788" y="2796" width="899" height="472" frameX="-208" frameY="-529" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="MtnDLiterallyDies Deathlol0029" x="1788" y="2796" width="899" height="472" frameX="-208" frameY="-529" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="MtnDLiterallyDies Deathlol0030" x="1788" y="2796" width="899" height="472" frameX="-208" frameY="-529" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="MtnDLiterallyDies Deathlol0031" x="1788" y="2796" width="899" height="472" frameX="-208" frameY="-529" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="MtnDLiterallyDies Deathlol0032" x="1788" y="2796" width="899" height="472" frameX="-208" frameY="-529" frameWidth="1920" frameHeight="1080" />
+</TextureAtlas>

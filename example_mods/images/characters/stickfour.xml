@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="stickfour.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="confirm0000" x="2330" y="620" width="216" height="331" frameX="-52" frameY="-117" frameWidth="329" frameHeight="420"/>
+	<SubTexture name="confirm0001" x="2004" y="620" width="226" height="319" frameX="-55" frameY="-91" frameWidth="329" frameHeight="420"/>
+	<SubTexture name="confirm0002" x="2004" y="620" width="226" height="319" frameX="-55" frameY="-68" frameWidth="329" frameHeight="420"/>
+	<SubTexture name="confirm0003" x="1666" y="620" width="238" height="333" frameX="-32" frameY="-41" frameWidth="329" frameHeight="420"/>
+	<SubTexture name="confirm0004" x="1666" y="620" width="238" height="333" frameX="-32" frameY="-31" frameWidth="329" frameHeight="420"/>
+	<SubTexture name="confirm0005" x="1666" y="620" width="238" height="333" frameX="-32" frameY="-28" frameWidth="329" frameHeight="420"/>
+	<SubTexture name="confirm0006" x="100" y="100" width="239" height="368" frameX="-43" frameY="0" frameWidth="323" frameHeight="481"/>
+	<SubTexture name="confirm0007" x="439" y="100" width="239" height="367" frameX="-43" frameY="-8" frameWidth="323" frameHeight="481"/>
+	<SubTexture name="confirm0008" x="778" y="100" width="239" height="365" frameX="-43" frameY="-22" frameWidth="323" frameHeight="481"/>
+	<SubTexture name="confirm0009" x="1117" y="100" width="283" height="369" frameX="-31" frameY="-41" frameWidth="323" frameHeight="481"/>
+	<SubTexture name="confirm0010" x="1500" y="100" width="283" height="364" frameX="-31" frameY="-67" frameWidth="323" frameHeight="481"/>
+	<SubTexture name="confirm0011" x="1883" y="100" width="323" height="402" frameX="0" frameY="-79" frameWidth="323" frameHeight="481"/>
+	<SubTexture name="confirm0012" x="2306" y="100" width="323" height="408" frameX="0" frameY="-73" frameWidth="323" frameHeight="481"/>
+	<SubTexture name="confirm0013" x="2729" y="100" width="323" height="414" frameX="0" frameY="-67" frameWidth="323" frameHeight="481"/>
+	<SubTexture name="confirm0014" x="3152" y="100" width="323" height="418" frameX="0" frameY="-63" frameWidth="323" frameHeight="481"/>
+	<SubTexture name="confirm0015" x="3575" y="100" width="323" height="420" frameX="0" frameY="-61" frameWidth="323" frameHeight="481"/>
+	<SubTexture name="confirm0016" x="100" y="620" width="323" height="420" frameX="0" frameY="-60" frameWidth="329" frameHeight="420"/>
+	<SubTexture name="confirm0017" x="100" y="620" width="323" height="420" frameX="0" frameY="-60" frameWidth="329" frameHeight="420"/>
+	<SubTexture name="confirm0018" x="100" y="620" width="323" height="420" frameX="0" frameY="-60" frameWidth="329" frameHeight="420"/>
+	<SubTexture name="confirm0019" x="100" y="620" width="323" height="420" frameX="0" frameY="-60" frameWidth="329" frameHeight="420"/>
+	<SubTexture name="confirm0020" x="100" y="620" width="323" height="420" frameX="0" frameY="-60" frameWidth="329" frameHeight="420"/>
+	<SubTexture name="confirm0021" x="100" y="620" width="323" height="420" frameX="0" frameY="-60" frameWidth="329" frameHeight="420"/>
+	<SubTexture name="confirm0022" x="100" y="620" width="323" height="420" frameX="0" frameY="-60" frameWidth="329" frameHeight="420"/>
+	<SubTexture name="confirm0023" x="100" y="620" width="323" height="420" frameX="0" frameY="-60" frameWidth="329" frameHeight="420"/>
+	<SubTexture name="confirm0024" x="100" y="620" width="323" height="420" frameX="0" frameY="-60" frameWidth="329" frameHeight="420"/>
+	<SubTexture name="confirm0025" x="100" y="620" width="323" height="420" frameX="0" frameY="-60" frameWidth="329" frameHeight="420"/>
+	<SubTexture name="confirm0026" x="100" y="620" width="323" height="420" frameX="0" frameY="-60" frameWidth="329" frameHeight="420"/>
+	<SubTexture name="confirm0027" x="100" y="620" width="323" height="420" frameX="0" frameY="-60" frameWidth="329" frameHeight="420"/>
+	<SubTexture name="confirm0028" x="100" y="620" width="323" height="420" frameX="0" frameY="-60" frameWidth="329" frameHeight="420"/>
+	<SubTexture name="confirm0029" x="100" y="620" width="323" height="420" frameX="0" frameY="-60" frameWidth="329" frameHeight="420"/>
+	<SubTexture name="confirm0030" x="100" y="620" width="323" height="420" frameX="0" frameY="-60" frameWidth="329" frameHeight="420"/>
+	<SubTexture name="confirm0031" x="100" y="620" width="323" height="420" frameX="0" frameY="-60" frameWidth="329" frameHeight="420"/>
+	<SubTexture name="confirm0032" x="100" y="620" width="323" height="420" frameX="0" frameY="-60" frameWidth="329" frameHeight="420"/>
+	<SubTexture name="confirm0033" x="100" y="620" width="323" height="420" frameX="0" frameY="-60" frameWidth="329" frameHeight="420"/>
+	<SubTexture name="four dies0000" x="100" y="620" width="323" height="420" frameX="0" frameY="0" frameWidth="329" frameHeight="420"/>
+	<SubTexture name="four dies0001" x="100" y="620" width="323" height="420" frameX="0" frameY="0" frameWidth="329" frameHeight="420"/>
+	<SubTexture name="four dies0002" x="100" y="620" width="323" height="420" frameX="0" frameY="0" frameWidth="329" frameHeight="420"/>
+	<SubTexture name="four dies0003" x="100" y="620" width="323" height="420" frameX="0" frameY="0" frameWidth="329" frameHeight="420"/>
+	<SubTexture name="four dies0004" x="523" y="620" width="321" height="403" frameX="-8" frameY="-10" frameWidth="329" frameHeight="420"/>
+	<SubTexture name="four dies0005" x="523" y="620" width="321" height="403" frameX="-8" frameY="-10" frameWidth="329" frameHeight="420"/>
+	<SubTexture name="four dies0006" x="523" y="620" width="321" height="403" frameX="-8" frameY="-10" frameWidth="329" frameHeight="420"/>
+	<SubTexture name="four dies0007" x="523" y="620" width="321" height="403" frameX="-8" frameY="-10" frameWidth="329" frameHeight="420"/>
+	<SubTexture name="four dies0008" x="523" y="620" width="321" height="403" frameX="-8" frameY="-10" frameWidth="329" frameHeight="420"/>
+	<SubTexture name="four dies0009" x="523" y="620" width="321" height="403" frameX="-8" frameY="-10" frameWidth="329" frameHeight="420"/>
+	<SubTexture name="four dies0010" x="944" y="620" width="283" height="377" frameX="-31" frameY="-19" frameWidth="329" frameHeight="420"/>
+	<SubTexture name="four dies0011" x="944" y="620" width="283" height="377" frameX="-31" frameY="-19" frameWidth="329" frameHeight="420"/>
+	<SubTexture name="four dies0012" x="944" y="620" width="283" height="377" frameX="-31" frameY="-19" frameWidth="329" frameHeight="420"/>
+	<SubTexture name="four dies0013" x="944" y="620" width="283" height="377" frameX="-31" frameY="-19" frameWidth="329" frameHeight="420"/>
+	<SubTexture name="four dies0014" x="944" y="620" width="283" height="377" frameX="-31" frameY="-19" frameWidth="329" frameHeight="420"/>
+	<SubTexture name="four dies0015" x="1327" y="620" width="239" height="369" frameX="-43" frameY="-21" frameWidth="329" frameHeight="420"/>
+	<SubTexture name="four dies0016" x="1327" y="620" width="239" height="369" frameX="-43" frameY="-21" frameWidth="329" frameHeight="420"/>
+	<SubTexture name="four dies0017" x="1327" y="620" width="239" height="369" frameX="-43" frameY="-21" frameWidth="329" frameHeight="420"/>
+	<SubTexture name="four dies0018" x="1327" y="620" width="239" height="369" frameX="-43" frameY="-21" frameWidth="329" frameHeight="420"/>
+	<SubTexture name="four dies0019" x="1666" y="620" width="238" height="333" frameX="-32" frameY="-52" frameWidth="329" frameHeight="420"/>
+	<SubTexture name="four dies0020" x="1666" y="620" width="238" height="333" frameX="-32" frameY="-52" frameWidth="329" frameHeight="420"/>
+	<SubTexture name="four dies0021" x="1666" y="620" width="238" height="333" frameX="-32" frameY="-52" frameWidth="329" frameHeight="420"/>
+	<SubTexture name="four dies0022" x="2004" y="620" width="226" height="319" frameX="-55" frameY="-61" frameWidth="329" frameHeight="420"/>
+	<SubTexture name="four dies0023" x="2004" y="620" width="226" height="319" frameX="-55" frameY="-61" frameWidth="329" frameHeight="420"/>
+	<SubTexture name="four dies0024" x="2004" y="620" width="226" height="319" frameX="-55" frameY="-61" frameWidth="329" frameHeight="420"/>
+	<SubTexture name="four dies0025" x="2004" y="620" width="226" height="319" frameX="-55" frameY="-61" frameWidth="329" frameHeight="420"/>
+	<SubTexture name="four dies0026" x="2330" y="620" width="216" height="331" frameX="-52" frameY="-56" frameWidth="329" frameHeight="420"/>
+	<SubTexture name="four dies0027" x="2330" y="620" width="216" height="331" frameX="-52" frameY="-56" frameWidth="329" frameHeight="420"/>
+	<SubTexture name="loop0000" x="2646" y="620" width="215" height="331"/>
+	<SubTexture name="loop0001" x="2646" y="620" width="215" height="331"/>
+	<SubTexture name="loop0002" x="2646" y="620" width="215" height="331"/>
+	<SubTexture name="loop0003" x="2646" y="620" width="215" height="331"/>
+	<SubTexture name="loop0004" x="2646" y="620" width="215" height="331"/>
+	<SubTexture name="loop0005" x="2646" y="620" width="215" height="331"/>
+	<SubTexture name="loop0006" x="2646" y="620" width="215" height="331"/>
+	<SubTexture name="loop0007" x="2646" y="620" width="215" height="331"/>
+	<SubTexture name="loop0008" x="2646" y="620" width="215" height="331"/>
+	<SubTexture name="loop0009" x="2961" y="620" width="215" height="331"/>
+	<SubTexture name="loop0010" x="3276" y="620" width="215" height="331"/>
+	<SubTexture name="loop0011" x="3591" y="620" width="215" height="331"/>
+	<SubTexture name="loop0012" x="3591" y="620" width="215" height="331"/>
+	<SubTexture name="loop0013" x="2961" y="620" width="215" height="331"/>
+</TextureAtlas>

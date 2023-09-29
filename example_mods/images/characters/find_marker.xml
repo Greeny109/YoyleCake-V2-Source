@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="find_marker.png">
+<SubTexture name="down0000" x="0" y="978" width="444" height="202" frameX="-36" frameY="-267" frameWidth="492" frameHeight="492" />
+<SubTexture name="down0001" x="444" y="978" width="442" height="149" frameX="-32" frameY="-329" frameWidth="492" frameHeight="492" />
+<SubTexture name="idle0000" x="401" y="536" width="149" height="434" frameX="-166" frameY="-15" frameWidth="492" frameHeight="492" />
+<SubTexture name="left0000" x="892" y="0" width="441" height="442" frameX="-20" frameY="-9" frameWidth="492" frameHeight="492" />
+<SubTexture name="left0001" x="0" y="536" width="401" height="442" frameX="-60" frameY="-9" frameWidth="492" frameHeight="492" />
+<SubTexture name="right0000" x="550" y="536" width="286" height="429" frameX="-206" frameY="-26" frameWidth="492" frameHeight="492" />
+<SubTexture name="right0001" x="836" y="536" width="301" height="416" frameX="-183" frameY="-33" frameWidth="492" frameHeight="492" />
+<SubTexture name="up0000" x="226" y="0" width="282" height="531" frameX="-71" frameY="-6" frameWidth="492" frameHeight="644" />
+<SubTexture name="up0001" x="0" y="0" width="226" height="536" frameX="-101" frameY="-43" frameWidth="492" frameHeight="644" />
+<SubTexture name="up0002" x="508" y="0" width="210" height="488" frameX="-117" frameY="-91" frameWidth="492" frameHeight="644" />
+<SubTexture name="up0003" x="718" y="0" width="174" height="443" frameX="-153" frameY="-136" frameWidth="492" frameHeight="644" />
+</TextureAtlas>

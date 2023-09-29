@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				75,
+				-6
+			],
+			"anim": "singLEFT",
+			"fps": 16,
+			"name": "lol left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-45,
+				-10
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "lol down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-19,
+				23
+			],
+			"anim": "singUP",
+			"fps": 16,
+			"name": "lol up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-161,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 16,
+			"name": "lol right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-9
+			],
+			"anim": "danceLeft",
+			"fps": 16,
+			"name": "lol idle left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-84,
+				-10
+			],
+			"anim": "danceRight",
+			"fps": 16,
+			"name": "lol idle right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/lol",
+	"position": [
+		0,
+		220
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		50,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

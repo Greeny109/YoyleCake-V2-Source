@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bubble.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bubble DOWN0000" x="2699" y="20" width="873" height="836"/>
+	<SubTexture name="bubble DOWN0001" x="2699" y="20" width="873" height="836"/>
+	<SubTexture name="bubble DOWN0002" x="3622" y="20" width="873" height="836"/>
+	<SubTexture name="bubble DOWN0003" x="3622" y="20" width="873" height="836"/>
+	<SubTexture name="bubble DOWN0004" x="3622" y="20" width="873" height="836"/>
+	<SubTexture name="bubble DOWN0005" x="4545" y="20" width="873" height="836"/>
+	<SubTexture name="bubble DOWN0006" x="4545" y="20" width="873" height="836"/>
+	<SubTexture name="bubble DOWN0007" x="4545" y="20" width="873" height="836"/>
+	<SubTexture name="bubble DOWN0008" x="4545" y="20" width="873" height="836"/>
+	<SubTexture name="bubble DOWN0009" x="4545" y="20" width="873" height="836"/>
+	<SubTexture name="bubble DOWN0010" x="4545" y="20" width="873" height="836"/>
+	<SubTexture name="bubble IDLE0000" x="2699" y="906" width="781" height="875"/>
+	<SubTexture name="bubble IDLE0001" x="2699" y="906" width="781" height="875"/>
+	<SubTexture name="bubble IDLE0002" x="3530" y="906" width="781" height="875"/>
+	<SubTexture name="bubble IDLE0003" x="3530" y="906" width="781" height="875"/>
+	<SubTexture name="bubble IDLE0004" x="4361" y="906" width="781" height="875"/>
+	<SubTexture name="bubble IDLE0005" x="4361" y="906" width="781" height="875"/>
+	<SubTexture name="bubble IDLE0006" x="5192" y="949" width="781" height="875"/>
+	<SubTexture name="bubble IDLE0007" x="5192" y="949" width="781" height="875"/>
+	<SubTexture name="bubble IDLE0008" x="6023" y="949" width="781" height="875"/>
+	<SubTexture name="bubble IDLE0009" x="6023" y="949" width="781" height="875"/>
+	<SubTexture name="bubble IDLE0010" x="6023" y="949" width="781" height="875"/>
+	<SubTexture name="bubble LEFT0000" x="6854" y="949" width="759" height="876"/>
+	<SubTexture name="bubble LEFT0001" x="6854" y="949" width="759" height="876"/>
+	<SubTexture name="bubble LEFT0002" x="20" y="959" width="759" height="876"/>
+	<SubTexture name="bubble LEFT0003" x="20" y="959" width="759" height="876"/>
+	<SubTexture name="bubble LEFT0004" x="20" y="959" width="759" height="876"/>
+	<SubTexture name="bubble LEFT0005" x="829" y="959" width="759" height="876"/>
+	<SubTexture name="bubble LEFT0006" x="829" y="959" width="759" height="876"/>
+	<SubTexture name="bubble LEFT0007" x="829" y="959" width="759" height="876"/>
+	<SubTexture name="bubble LEFT0008" x="829" y="959" width="759" height="876"/>
+	<SubTexture name="bubble LEFT0009" x="829" y="959" width="759" height="876"/>
+	<SubTexture name="bubble LEFT0010" x="829" y="959" width="759" height="876"/>
+	<SubTexture name="bubble RIGHT0000" x="5468" y="20" width="788" height="879"/>
+	<SubTexture name="bubble RIGHT0001" x="5468" y="20" width="788" height="879"/>
+	<SubTexture name="bubble RIGHT0002" x="6306" y="20" width="788" height="879"/>
+	<SubTexture name="bubble RIGHT0003" x="6306" y="20" width="788" height="879"/>
+	<SubTexture name="bubble RIGHT0004" x="6306" y="20" width="788" height="879"/>
+	<SubTexture name="bubble RIGHT0005" x="7144" y="20" width="788" height="879"/>
+	<SubTexture name="bubble RIGHT0006" x="7144" y="20" width="788" height="879"/>
+	<SubTexture name="bubble RIGHT0007" x="7144" y="20" width="788" height="879"/>
+	<SubTexture name="bubble RIGHT0008" x="7144" y="20" width="788" height="879"/>
+	<SubTexture name="bubble RIGHT0009" x="7144" y="20" width="788" height="879"/>
+	<SubTexture name="bubble RIGHT0010" x="7144" y="20" width="788" height="879"/>
+	<SubTexture name="bubble UP0000" x="20" y="20" width="843" height="889"/>
+	<SubTexture name="bubble UP0001" x="20" y="20" width="843" height="889"/>
+	<SubTexture name="bubble UP0002" x="913" y="20" width="843" height="889"/>
+	<SubTexture name="bubble UP0003" x="913" y="20" width="843" height="889"/>
+	<SubTexture name="bubble UP0004" x="913" y="20" width="843" height="889"/>
+	<SubTexture name="bubble UP0005" x="1806" y="20" width="843" height="889"/>
+	<SubTexture name="bubble UP0006" x="1806" y="20" width="843" height="889"/>
+	<SubTexture name="bubble UP0007" x="1806" y="20" width="843" height="889"/>
+	<SubTexture name="bubble UP0008" x="1806" y="20" width="843" height="889"/>
+	<SubTexture name="bubble UP0009" x="1806" y="20" width="843" height="889"/>
+	<SubTexture name="bubble UP0010" x="1806" y="20" width="843" height="889"/>
+</TextureAtlas>

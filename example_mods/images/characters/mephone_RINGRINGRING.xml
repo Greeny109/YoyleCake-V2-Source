@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="mephone_RINGRINGRING.png">
+<SubTexture name="right0000" x="560" y="0" width="596" height="950" frameX="-27" frameY="-166" frameWidth="643" frameHeight="1161" />
+<SubTexture name="right0001" x="1720" y="0" width="580" height="942" frameX="-21" frameY="-136" frameWidth="643" frameHeight="1161" />
+<SubTexture name="IDLE0000" x="1153" y="1893" width="475" height="914" frameX="-66" frameY="-172" frameWidth="643" frameHeight="1161" />
+<SubTexture name="IDLE0001" x="862" y="953" width="446" height="934" frameX="-77" frameY="-152" frameWidth="643" frameHeight="1161" />
+<SubTexture name="IDLE0002" x="429" y="953" width="433" height="935" frameX="-73" frameY="-151" frameWidth="643" frameHeight="1161" />
+<SubTexture name="IDLE0003" x="0" y="953" width="429" height="940" frameX="-72" frameY="-146" frameWidth="643" frameHeight="1161" />
+<SubTexture name="IDLE0004" x="2300" y="926" width="446" height="923" frameX="-68" frameY="-162" frameWidth="643" frameHeight="1161" />
+<SubTexture name="left0000" x="566" y="1893" width="587" height="916" frameX="-33" frameY="-171" frameWidth="643" frameHeight="1161" />
+<SubTexture name="left0001" x="0" y="1893" width="566" height="919" frameX="-69" frameY="-105" frameWidth="643" frameHeight="1161" />
+<SubTexture name="down0000" x="1156" y="0" width="564" height="950" frameX="-78" frameY="-37" frameWidth="643" frameHeight="1161" />
+<SubTexture name="down0001" x="0" y="0" width="560" height="953" frameX="-69" frameY="-63" frameWidth="643" frameHeight="1161" />
+<SubTexture name="up0000" x="2300" y="0" width="549" height="926" frameX="-41" frameY="-74" frameWidth="643" frameHeight="1161" />
+<SubTexture name="up0001" x="1308" y="953" width="588" height="933" frameX="-10" frameY="-61" frameWidth="643" frameHeight="1161" />
+</TextureAtlas>

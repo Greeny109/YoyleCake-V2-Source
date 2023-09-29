@@ -1,0 +1,98 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				10
+			],
+			"anim": "dumb prize",
+			"fps": 12,
+			"name": "dumb prize",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				9
+			],
+			"anim": "cake at stake",
+			"fps": 12,
+			"name": "cake at stake",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				8
+			],
+			"anim": "I SAID",
+			"fps": 12,
+			"name": "I SAID",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				10
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "dumb prize-loop",
+			"indices": [
+				28,
+				29
+			],
+			"name": "dumb prize"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				10
+			],
+			"anim": "cake at stake-loop",
+			"fps": 12,
+			"name": "cake at stake",
+			"indices": [
+				26,
+				27
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				8
+			],
+			"anim": "I SAID-loop",
+			"fps": 12,
+			"name": "I SAID",
+			"indices": [
+				31,
+				32
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/two_speak",
+	"position": [
+		-180,
+		110
+	],
+	"healthicon": "two",
+	"flip_x": false,
+	"healthbar_colors": [
+		29,
+		140,
+		26
+	],
+	"camera_position": [
+		82,
+		61
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

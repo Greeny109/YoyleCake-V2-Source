@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="me_with_object_assets.png">
+<SubTexture name="crappy0000" x="0" y="1723" width="1221" height="1706" frameX="-158" frameY="-48" frameWidth="1602" frameHeight="1852" />
+<SubTexture name="crappy0001" x="2459" y="0" width="1222" height="1713" frameX="-170" frameY="-41" frameWidth="1602" frameHeight="1852" />
+<SubTexture name="crappy0002" x="0" y="0" width="1229" height="1723" frameX="-197" frameY="-31" frameWidth="1602" frameHeight="1852" />
+<SubTexture name="crappy0003" x="1229" y="0" width="1230" height="1718" frameX="-221" frameY="-36" frameWidth="1602" frameHeight="1852" />
+<SubTexture name="crappy0004" x="1229" y="0" width="1230" height="1718" frameX="-221" frameY="-36" frameWidth="1602" frameHeight="1852" />
+<SubTexture name="crappy0005" x="1229" y="0" width="1230" height="1718" frameX="-221" frameY="-36" frameWidth="1602" frameHeight="1852" />
+<SubTexture name="crappy0006" x="1229" y="0" width="1230" height="1718" frameX="-221" frameY="-36" frameWidth="1602" frameHeight="1852" />
+</TextureAtlas>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Flower-Two-Trucks.png">
+<SubTexture name="Flower-Two-Trucks Idle0000" x="764" y="607" width="382" height="570" frameX="-792" frameY="-136" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Flower-Two-Trucks Idle0001" x="764" y="607" width="382" height="570" frameX="-792" frameY="-136" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Flower-Two-Trucks Idle0002" x="382" y="607" width="382" height="573" frameX="-795" frameY="-133" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Flower-Two-Trucks Idle0003" x="382" y="607" width="382" height="573" frameX="-795" frameY="-133" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Flower-Two-Trucks Idle0004" x="764" y="0" width="382" height="575" frameX="-799" frameY="-131" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Flower-Two-Trucks Idle0005" x="764" y="0" width="382" height="575" frameX="-799" frameY="-131" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Flower-Two-Trucks Idle0006" x="1146" y="0" width="382" height="575" frameX="-801" frameY="-131" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Flower-Two-Trucks Idle0007" x="1146" y="0" width="382" height="575" frameX="-801" frameY="-131" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Flower-Two-Trucks Idle0008" x="0" y="607" width="382" height="574" frameX="-800" frameY="-132" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Flower-Two-Trucks Idle0009" x="0" y="607" width="382" height="574" frameX="-800" frameY="-132" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Flower-Two-Trucks Idle0010" x="0" y="607" width="382" height="574" frameX="-800" frameY="-132" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Flower-Two-Trucks Right0000" x="1528" y="0" width="382" height="567" frameX="-824" frameY="-139" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Flower-Two-Trucks Right0001" x="1528" y="0" width="382" height="567" frameX="-824" frameY="-139" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Flower-Two-Trucks Right0002" x="1146" y="607" width="382" height="569" frameX="-818" frameY="-137" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Flower-Two-Trucks Right0003" x="1146" y="607" width="382" height="569" frameX="-818" frameY="-137" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Flower-Two-Trucks Right0004" x="1146" y="607" width="382" height="569" frameX="-818" frameY="-137" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Flower-Two-Trucks Left0000" x="0" y="1181" width="382" height="563" frameX="-759" frameY="-143" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Flower-Two-Trucks Left0001" x="0" y="1181" width="382" height="563" frameX="-759" frameY="-143" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Flower-Two-Trucks Left0002" x="1528" y="567" width="382" height="566" frameX="-763" frameY="-140" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Flower-Two-Trucks Left0003" x="1528" y="567" width="382" height="566" frameX="-763" frameY="-140" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Flower-Two-Trucks Left0004" x="1528" y="567" width="382" height="566" frameX="-763" frameY="-140" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Flower-Two-Trucks Up0000" x="0" y="0" width="382" height="607" frameX="-800" frameY="-99" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Flower-Two-Trucks Up0001" x="0" y="0" width="382" height="607" frameX="-800" frameY="-99" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Flower-Two-Trucks Up0002" x="382" y="0" width="382" height="605" frameX="-798" frameY="-101" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Flower-Two-Trucks Up0003" x="382" y="0" width="382" height="605" frameX="-798" frameY="-101" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Flower-Two-Trucks Up0004" x="382" y="0" width="382" height="605" frameX="-798" frameY="-101" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Flower-Two-Trucks Down0000" x="764" y="1181" width="382" height="545" frameX="-777" frameY="-161" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Flower-Two-Trucks Down0001" x="764" y="1181" width="382" height="545" frameX="-777" frameY="-161" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Flower-Two-Trucks Down0002" x="382" y="1181" width="382" height="547" frameX="-779" frameY="-159" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Flower-Two-Trucks Down0003" x="382" y="1181" width="382" height="547" frameX="-779" frameY="-159" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Flower-Two-Trucks Down0004" x="382" y="1181" width="382" height="547" frameX="-779" frameY="-159" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

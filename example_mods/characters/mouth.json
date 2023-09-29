@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "MouthIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				-1
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "MouthLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				62,
+				-4
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "MouthDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-69,
+				20
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "MouthRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				857
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "MouthUp",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Thismouthohgod",
+	"position": [
+		50,
+		390
+	],
+	"healthicon": "mouth",
+	"flip_x": false,
+	"healthbar_colors": [
+		106,
+		0,
+		3
+	],
+	"camera_position": [
+		-10,
+		-279
+	],
+	"sing_duration": 4,
+	"scale": 1.7
+}

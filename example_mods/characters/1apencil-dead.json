@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				1524,
+				537
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "PencilDies"
+		},
+		{
+			"offsets": [
+				-7,
+				36
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "PencilDeadLoop"
+		},
+		{
+			"offsets": [
+				-42,
+				85
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "PencilDeadRetry"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/1aPencilDead",
+	"position": [
+		0,
+		300
+	],
+	"healthicon": "1apencil",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		169,
+		9
+	],
+	"camera_position": [
+		-33,
+		86
+	],
+	"sing_duration": 5,
+	"scale": 0.8
+}

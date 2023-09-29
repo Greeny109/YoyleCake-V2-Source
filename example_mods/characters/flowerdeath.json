@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				-53
+			],
+			"anim": "firstDeath",
+			"fps": 12,
+			"name": "firstDeath",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-53,
+				-49
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "deathRetry",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-53,
+				-50
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "deathConfirm",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/flowerdeath",
+	"position": [
+		-510,
+		-380
+	],
+	"healthicon": "flower-tt",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-150,
+		570
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

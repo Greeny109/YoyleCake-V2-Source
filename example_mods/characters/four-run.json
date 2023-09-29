@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": true,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "swigity swooty im coming for your booty"
+		},
+		{
+			"offsets": [
+				0,
+				9
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "line",
+			"indices": [],
+			"name": "SHUT THE FUCK UP"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Four-Running",
+	"position": [
+		710,
+		-620
+	],
+	"healthicon": "four",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		153
+	],
+	"camera_position": [
+		650,
+		840
+	],
+	"sing_duration": 4,
+	"scale": 0.23
+}

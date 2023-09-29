@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				29,
+				-30
+			],
+			"anim": "singDOWNmiss",
+			"fps": 16,
+			"name": "miss down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				113,
+				28
+			],
+			"anim": "singLEFTmiss",
+			"fps": 16,
+			"name": "miss left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				36,
+				113
+			],
+			"anim": "singUPmiss",
+			"fps": 16,
+			"name": "miss up",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				15,
+				-10
+			],
+			"anim": "idle",
+			"fps": 16,
+			"name": "four idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-39
+			],
+			"anim": "singDOWN",
+			"fps": 16,
+			"name": "four down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				55,
+				112
+			],
+			"anim": "singUP",
+			"fps": 16,
+			"name": "four up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-90,
+				27
+			],
+			"anim": "singRIGHT",
+			"fps": 16,
+			"name": "four right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				86,
+				-15
+			],
+			"anim": "singLEFT",
+			"fps": 16,
+			"name": "four left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-110,
+				25
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "miss right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/fourbfb",
+	"position": [
+		90,
+		280
+	],
+	"healthicon": "four-player",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		115,
+		255
+	],
+	"camera_position": [
+		230,
+		80
+	],
+	"sing_duration": 4,
+	"scale": 1.3
+}

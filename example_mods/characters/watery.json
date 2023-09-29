@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				85,
+				153
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "firey IDLE"
+		},
+		{
+			"offsets": [
+				121,
+				183
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "firey UP"
+		},
+		{
+			"offsets": [
+				94,
+				152
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "firey DOWN"
+		},
+		{
+			"offsets": [
+				141,
+				171
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "firey LEFT"
+		},
+		{
+			"offsets": [
+				84,
+				164
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "firey RIGHT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/WaterySprites",
+	"position": [
+		-130,
+		90
+	],
+	"healthicon": "watery",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		128,
+		255
+	],
+	"camera_position": [
+		120,
+		140
+	],
+	"sing_duration": 6.1,
+	"scale": 0.6
+}

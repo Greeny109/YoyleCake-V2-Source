@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				20
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Leafy Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				10
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Leafy Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				1
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Leafy Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				6
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Leafy Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				21
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Leafy Up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/leafyboombox",
+	"position": [
+		-30,
+		-160
+	],
+	"healthicon": "leafy",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		60,
+		280
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}

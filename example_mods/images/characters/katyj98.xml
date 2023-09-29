@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="katyj98.png">
+<SubTexture name="down0000" x="992" y="1274" width="605" height="344" frameX="-83" frameY="-348" frameWidth="720" frameHeight="720" />
+<SubTexture name="down0001" x="413" y="1274" width="579" height="368" frameX="-95" frameY="-323" frameWidth="720" frameHeight="720" />
+<SubTexture name="idle0000" x="0" y="1274" width="413" height="484" frameX="-155" frameY="-155" frameWidth="720" frameHeight="720" />
+<SubTexture name="idle0001" x="1521" y="0" width="384" height="526" frameX="-169" frameY="-111" frameWidth="720" frameHeight="720" />
+<SubTexture name="idle0002" x="1100" y="654" width="384" height="552" frameX="-169" frameY="-85" frameWidth="720" frameHeight="720" />
+<SubTexture name="left0000" x="718" y="654" width="382" height="571" frameX="-111" frameY="-110" frameWidth="720" frameHeight="720" />
+<SubTexture name="left0001" x="364" y="654" width="354" height="597" frameX="-156" frameY="-84" frameWidth="720" frameHeight="720" />
+<SubTexture name="right0000" x="0" y="654" width="364" height="620" frameX="-240" frameY="-58" frameWidth="720" frameHeight="720" />
+<SubTexture name="right0001" x="1190" y="0" width="331" height="648" frameX="-230" frameY="-29" frameWidth="720" frameHeight="720" />
+<SubTexture name="up0000" x="0" y="0" width="537" height="654" frameX="-92" frameY="0" frameWidth="720" frameHeight="720" />
+<SubTexture name="up0001" x="537" y="0" width="653" height="653" frameX="-33" frameY="-34" frameWidth="720" frameHeight="720" />
+</TextureAtlas>

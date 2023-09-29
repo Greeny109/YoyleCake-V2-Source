@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "four i'll have you know I have a 49 millimeter in my pocket and am not afraid to use it unless you hurry up0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/x-gf-alt",
+	"position": [
+		-910,
+		-530
+	],
+	"healthicon": "x",
+	"flip_x": false,
+	"healthbar_colors": [
+		253,
+		254,
+		3
+	],
+	"camera_position": [
+		230,
+		310
+	],
+	"sing_duration": 4,
+	"scale": 0.3
+}

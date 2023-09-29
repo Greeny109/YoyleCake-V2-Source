@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="cary.png"><SubTexture name="cary up0000" x="362" y="0" width="361" height="269" frameX="0" frameY="0" frameWidth="361" frameHeight="269" />
+<SubTexture name="cary right0000" x="723" y="0" width="361" height="267" frameX="0" frameY="0" frameWidth="361" frameHeight="267" />
+<SubTexture name="cary left0000" x="357" y="271" width="360" height="268" frameX="0" frameY="0" frameWidth="360" frameHeight="268" />
+<SubTexture name="cary down0000" x="0" y="0" width="362" height="271" frameX="0" frameY="0" frameWidth="362" frameHeight="271" />
+<SubTexture name="cary idle0000" x="0" y="271" width="357" height="269" frameX="0" frameY="0" frameWidth="357" frameHeight="269" />
+</TextureAtlas>

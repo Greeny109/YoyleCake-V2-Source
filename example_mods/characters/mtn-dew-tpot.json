@@ -1,0 +1,138 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				1
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				3
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				2
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				7
+			],
+			"anim": "singUPmiss",
+			"fps": 12,
+			"name": "walls",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				22,
+				13
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 12,
+			"name": "your",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				-2
+			],
+			"anim": "singDOWNmiss",
+			"fps": 12,
+			"name": "im",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				2
+			],
+			"anim": "singLEFTmiss",
+			"fps": 12,
+			"name": "in",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-6,
+				0
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mtn_dew_TPOT",
+	"position": [
+		-370,
+		60
+	],
+	"healthicon": "mtn-dew-bfb",
+	"flip_x": true,
+	"healthbar_colors": [
+		75,
+		175,
+		179
+	],
+	"camera_position": [
+		330,
+		-40
+	],
+	"sing_duration": 4,
+	"scale": 1.3
+}

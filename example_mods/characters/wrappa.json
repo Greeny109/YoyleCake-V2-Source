@@ -1,0 +1,132 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-6,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle0"
+		},
+		{
+			"offsets": [
+				9,
+				4
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [
+				1,
+				2,
+				3
+			],
+			"name": "Up0"
+		},
+		{
+			"offsets": [
+				-6,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down0"
+		},
+		{
+			"offsets": [
+				17,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Left Miss0"
+		},
+		{
+			"offsets": [
+				9,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Up Miss0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				-1
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Right Miss0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 18,
+			"name": "Right0",
+			"indices": [
+				2,
+				1
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				17,
+				3
+			],
+			"anim": "singLEFT",
+			"fps": 18,
+			"name": "Left0",
+			"indices": [
+				2,
+				1
+			]
+		},
+		{
+			"offsets": [
+				-6,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Down Miss0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Wrappa",
+	"position": [
+		-350,
+		-160
+	],
+	"healthicon": "wrappa",
+	"flip_x": true,
+	"healthbar_colors": [
+		77,
+		157,
+		241
+	],
+	"camera_position": [
+		110,
+		270
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

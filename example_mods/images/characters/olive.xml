@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="olive.png">
+<SubTexture name="poopy0000" x="713" y="1039" width="713" height="1023" frameX="-268" frameY="-106" frameWidth="1200" frameHeight="1200" />
+<SubTexture name="poopy0001" x="0" y="1039" width="713" height="1035" frameX="-256" frameY="-94" frameWidth="1200" frameHeight="1200" />
+<SubTexture name="poopy0002" x="0" y="0" width="714" height="1039" frameX="-249" frameY="-90" frameWidth="1200" frameHeight="1200" />
+<SubTexture name="poopy0003" x="714" y="0" width="710" height="1039" frameX="-242" frameY="-90" frameWidth="1200" frameHeight="1200" />
+<SubTexture name="poopy0004" x="1424" y="0" width="710" height="1039" frameX="-242" frameY="-90" frameWidth="1200" frameHeight="1200" />
+<SubTexture name="poopy0005" x="1424" y="0" width="710" height="1039" frameX="-242" frameY="-90" frameWidth="1200" frameHeight="1200" />
+</TextureAtlas>

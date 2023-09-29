@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="TuneWatching.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Tune Watching0000" x="20" y="20" width="486" height="533"/>
+	<SubTexture name="Tune Watching0001" x="20" y="20" width="486" height="533"/>
+	<SubTexture name="Tune Watching0002" x="556" y="20" width="486" height="533"/>
+	<SubTexture name="Tune Watching0003" x="556" y="20" width="486" height="533"/>
+	<SubTexture name="Tune Watching0004" x="1092" y="20" width="486" height="533"/>
+	<SubTexture name="Tune Watching0005" x="1092" y="20" width="486" height="533"/>
+	<SubTexture name="Tune Watching0006" x="20" y="603" width="486" height="533"/>
+	<SubTexture name="Tune Watching0007" x="20" y="603" width="486" height="533"/>
+	<SubTexture name="Tune Watching0008" x="556" y="603" width="486" height="533"/>
+	<SubTexture name="Tune Watching0009" x="556" y="603" width="486" height="533"/>
+	<SubTexture name="Tune Watching0010" x="556" y="603" width="486" height="533"/>
+	<SubTexture name="Tune Watching0011" x="556" y="603" width="486" height="533"/>
+	<SubTexture name="Tune Watching0012" x="556" y="603" width="486" height="533"/>
+	<SubTexture name="Tune Watching0013" x="556" y="603" width="486" height="533"/>
+	<SubTexture name="Tune Watching0014" x="556" y="603" width="486" height="533"/>
+	<SubTexture name="Tune Watching0015" x="556" y="603" width="486" height="533"/>
+	<SubTexture name="Tune Watching0016" x="556" y="603" width="486" height="533"/>
+</TextureAtlas>

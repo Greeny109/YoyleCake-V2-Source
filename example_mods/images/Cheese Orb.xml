@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Cheese Orb.png">
+<SubTexture name="Floaty0000" x="0" y="0" width="642" height="641" frameX="-655" frameY="-194" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Floaty0001" x="642" y="0" width="642" height="641" frameX="-655" frameY="-203" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Floaty0002" x="1284" y="0" width="642" height="641" frameX="-655" frameY="-211" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Floaty0003" x="1926" y="0" width="642" height="641" frameX="-655" frameY="-217" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Floaty0004" x="0" y="641" width="642" height="641" frameX="-655" frameY="-222" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Floaty0005" x="642" y="641" width="642" height="641" frameX="-655" frameY="-226" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Floaty0006" x="1284" y="641" width="642" height="641" frameX="-655" frameY="-229" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Floaty0007" x="1926" y="641" width="642" height="641" frameX="-655" frameY="-231" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Floaty0008" x="0" y="1282" width="642" height="641" frameX="-655" frameY="-233" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Floaty0009" x="642" y="1282" width="642" height="641" frameX="-655" frameY="-234" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Floaty0010" x="1284" y="1282" width="642" height="641" frameX="-655" frameY="-235" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Floaty0011" x="1926" y="1282" width="642" height="641" frameX="-655" frameY="-235" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Floaty0012" x="0" y="1923" width="642" height="641" frameX="-655" frameY="-235" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Floaty0013" x="642" y="1923" width="642" height="642" frameX="-655" frameY="-235" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Floaty0014" x="1284" y="1923" width="642" height="642" frameX="-655" frameY="-235" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Floaty0015" x="1284" y="1923" width="642" height="642" frameX="-655" frameY="-235" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Floaty0016" x="1284" y="1923" width="642" height="642" frameX="-655" frameY="-235" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Floaty0017" x="1926" y="1923" width="642" height="641" frameX="-655" frameY="-222" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Floaty0018" x="0" y="2565" width="642" height="641" frameX="-655" frameY="-212" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Floaty0019" x="642" y="2565" width="642" height="641" frameX="-655" frameY="-205" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Floaty0020" x="1284" y="2565" width="642" height="641" frameX="-655" frameY="-199" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Floaty0021" x="1926" y="2565" width="642" height="641" frameX="-655" frameY="-196" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Floaty0022" x="0" y="3206" width="642" height="641" frameX="-655" frameY="-193" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Floaty0023" x="642" y="3206" width="642" height="641" frameX="-655" frameY="-192" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Floaty0024" x="1284" y="3206" width="642" height="641" frameX="-655" frameY="-191" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Floaty0025" x="1926" y="3206" width="642" height="641" frameX="-655" frameY="-191" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Floaty0026" x="0" y="3847" width="642" height="642" frameX="-655" frameY="-190" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Floaty0027" x="0" y="3847" width="642" height="642" frameX="-655" frameY="-190" frameWidth="1920" frameHeight="1080" />
+</TextureAtlas>

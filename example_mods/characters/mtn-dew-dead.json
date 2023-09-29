@@ -1,0 +1,62 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "firstDeath",
+			"loop": false,
+			"name": "death"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				47,
+				48
+			],
+			"fps": 24,
+			"anim": "deathLoop",
+			"loop": false,
+			"name": "death"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				47,
+				48
+			],
+			"fps": 24,
+			"anim": "deathConfirm",
+			"loop": false,
+			"name": "death"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mtn_dew_death",
+	"position": [
+		-710,
+		-170
+	],
+	"healthicon": "mtn-dew",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-30,
+		210
+	],
+	"sing_duration": 4,
+	"scale": 0.75
+}

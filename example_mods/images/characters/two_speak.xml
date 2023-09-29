@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="two_speak.png">
+<SubTexture name="dumb prize0000" x="1848" y="0" width="592" height="624" frameX="-80" frameY="-48" frameWidth="720" frameHeight="720" />
+<SubTexture name="dumb prize0001" x="0" y="1298" width="584" height="623" frameX="-84" frameY="-53" frameWidth="720" frameHeight="720" />
+<SubTexture name="dumb prize0002" x="584" y="1298" width="577" height="620" frameX="-91" frameY="-56" frameWidth="720" frameHeight="720" />
+<SubTexture name="dumb prize0003" x="584" y="1298" width="577" height="620" frameX="-91" frameY="-56" frameWidth="720" frameHeight="720" />
+<SubTexture name="dumb prize0004" x="0" y="1298" width="584" height="623" frameX="-84" frameY="-53" frameWidth="720" frameHeight="720" />
+<SubTexture name="dumb prize0005" x="0" y="1298" width="584" height="623" frameX="-84" frameY="-53" frameWidth="720" frameHeight="720" />
+<SubTexture name="dumb prize0006" x="0" y="1298" width="584" height="623" frameX="-84" frameY="-53" frameWidth="720" frameHeight="720" />
+<SubTexture name="dumb prize0007" x="1848" y="624" width="589" height="624" frameX="-86" frameY="-49" frameWidth="720" frameHeight="720" />
+<SubTexture name="dumb prize0008" x="0" y="1298" width="584" height="623" frameX="-84" frameY="-53" frameWidth="720" frameHeight="720" />
+<SubTexture name="dumb prize0009" x="584" y="1298" width="577" height="620" frameX="-91" frameY="-56" frameWidth="720" frameHeight="720" />
+<SubTexture name="dumb prize0010" x="1848" y="0" width="592" height="624" frameX="-80" frameY="-48" frameWidth="720" frameHeight="720" />
+<SubTexture name="dumb prize0011" x="0" y="1298" width="584" height="623" frameX="-84" frameY="-53" frameWidth="720" frameHeight="720" />
+<SubTexture name="dumb prize0012" x="621" y="658" width="578" height="628" frameX="-85" frameY="-48" frameWidth="720" frameHeight="720" />
+<SubTexture name="dumb prize0013" x="1848" y="0" width="592" height="624" frameX="-80" frameY="-48" frameWidth="720" frameHeight="720" />
+<SubTexture name="dumb prize0014" x="0" y="1298" width="584" height="623" frameX="-84" frameY="-53" frameWidth="720" frameHeight="720" />
+<SubTexture name="dumb prize0015" x="1848" y="624" width="589" height="624" frameX="-86" frameY="-49" frameWidth="720" frameHeight="720" />
+<SubTexture name="dumb prize0016" x="0" y="1298" width="584" height="623" frameX="-84" frameY="-53" frameWidth="720" frameHeight="720" />
+<SubTexture name="dumb prize0017" x="584" y="1298" width="577" height="620" frameX="-91" frameY="-56" frameWidth="720" frameHeight="720" />
+<SubTexture name="dumb prize0018" x="1848" y="0" width="592" height="624" frameX="-80" frameY="-48" frameWidth="720" frameHeight="720" />
+<SubTexture name="dumb prize0019" x="0" y="1298" width="584" height="623" frameX="-84" frameY="-53" frameWidth="720" frameHeight="720" />
+<SubTexture name="dumb prize0020" x="0" y="1298" width="584" height="623" frameX="-84" frameY="-53" frameWidth="720" frameHeight="720" />
+<SubTexture name="dumb prize0021" x="1161" y="1298" width="592" height="616" frameX="-78" frameY="-51" frameWidth="720" frameHeight="720" />
+<SubTexture name="dumb prize0022" x="3720" y="0" width="584" height="593" frameX="-74" frameY="-75" frameWidth="720" frameHeight="720" />
+<SubTexture name="dumb prize0023" x="3720" y="0" width="584" height="593" frameX="-74" frameY="-75" frameWidth="720" frameHeight="720" />
+<SubTexture name="dumb prize0024" x="3720" y="0" width="584" height="593" frameX="-74" frameY="-75" frameWidth="720" frameHeight="720" />
+<SubTexture name="dumb prize0025" x="1161" y="1298" width="592" height="616" frameX="-78" frameY="-51" frameWidth="720" frameHeight="720" />
+<SubTexture name="dumb prize0026" x="1161" y="1298" width="592" height="616" frameX="-78" frameY="-51" frameWidth="720" frameHeight="720" />
+<SubTexture name="dumb prize0027" x="1161" y="1298" width="592" height="616" frameX="-78" frameY="-51" frameWidth="720" frameHeight="720" />
+<SubTexture name="dumb prize0028" x="1753" y="1298" width="597" height="603" frameX="-77" frameY="-58" frameWidth="720" frameHeight="720" />
+<SubTexture name="dumb prize0029" x="1753" y="1298" width="597" height="603" frameX="-77" frameY="-58" frameWidth="720" frameHeight="720" />
+<SubTexture name="cake at stake0000" x="3720" y="593" width="562" height="580" frameX="-76" frameY="-79" frameWidth="720" frameHeight="720" />
+<SubTexture name="cake at stake0001" x="3720" y="1173" width="562" height="580" frameX="-76" frameY="-79" frameWidth="720" frameHeight="720" />
+<SubTexture name="cake at stake0002" x="3720" y="1753" width="562" height="580" frameX="-76" frameY="-79" frameWidth="720" frameHeight="720" />
+<SubTexture name="cake at stake0003" x="3720" y="593" width="562" height="580" frameX="-76" frameY="-79" frameWidth="720" frameHeight="720" />
+<SubTexture name="cake at stake0004" x="3720" y="1173" width="562" height="580" frameX="-76" frameY="-79" frameWidth="720" frameHeight="720" />
+<SubTexture name="cake at stake0005" x="3720" y="1173" width="562" height="580" frameX="-76" frameY="-79" frameWidth="720" frameHeight="720" />
+<SubTexture name="cake at stake0006" x="0" y="1921" width="598" height="594" frameX="-65" frameY="-64" frameWidth="720" frameHeight="720" />
+<SubTexture name="cake at stake0007" x="0" y="0" width="621" height="658" frameX="-58" frameY="-10" frameWidth="720" frameHeight="720" />
+<SubTexture name="cake at stake0008" x="0" y="658" width="621" height="640" frameX="-58" frameY="-29" frameWidth="720" frameHeight="720" />
+<SubTexture name="cake at stake0009" x="1199" y="658" width="599" height="628" frameX="-64" frameY="-39" frameWidth="720" frameHeight="720" />
+<SubTexture name="cake at stake0010" x="1199" y="658" width="599" height="628" frameX="-64" frameY="-39" frameWidth="720" frameHeight="720" />
+<SubTexture name="cake at stake0011" x="1199" y="658" width="599" height="628" frameX="-64" frameY="-39" frameWidth="720" frameHeight="720" />
+<SubTexture name="cake at stake0012" x="1228" y="0" width="620" height="641" frameX="-59" frameY="-25" frameWidth="720" frameHeight="720" />
+<SubTexture name="cake at stake0013" x="1228" y="0" width="620" height="641" frameX="-59" frameY="-25" frameWidth="720" frameHeight="720" />
+<SubTexture name="cake at stake0014" x="1228" y="0" width="620" height="641" frameX="-59" frameY="-25" frameWidth="720" frameHeight="720" />
+<SubTexture name="cake at stake0015" x="621" y="0" width="607" height="656" frameX="-58" frameY="-13" frameWidth="720" frameHeight="720" />
+<SubTexture name="cake at stake0016" x="0" y="658" width="621" height="640" frameX="-58" frameY="-29" frameWidth="720" frameHeight="720" />
+<SubTexture name="cake at stake0017" x="1199" y="658" width="599" height="628" frameX="-64" frameY="-39" frameWidth="720" frameHeight="720" />
+<SubTexture name="cake at stake0018" x="1199" y="658" width="599" height="628" frameX="-64" frameY="-39" frameWidth="720" frameHeight="720" />
+<SubTexture name="cake at stake0019" x="0" y="658" width="621" height="640" frameX="-58" frameY="-29" frameWidth="720" frameHeight="720" />
+<SubTexture name="cake at stake0020" x="1199" y="658" width="599" height="628" frameX="-64" frameY="-39" frameWidth="720" frameHeight="720" />
+<SubTexture name="cake at stake0021" x="0" y="658" width="621" height="640" frameX="-58" frameY="-29" frameWidth="720" frameHeight="720" />
+<SubTexture name="cake at stake0022" x="0" y="658" width="621" height="640" frameX="-58" frameY="-29" frameWidth="720" frameHeight="720" />
+<SubTexture name="cake at stake0023" x="1199" y="658" width="599" height="628" frameX="-64" frameY="-39" frameWidth="720" frameHeight="720" />
+<SubTexture name="cake at stake0024" x="1199" y="658" width="599" height="628" frameX="-64" frameY="-39" frameWidth="720" frameHeight="720" />
+<SubTexture name="cake at stake0025" x="0" y="658" width="621" height="640" frameX="-58" frameY="-29" frameWidth="720" frameHeight="720" />
+<SubTexture name="cake at stake0026" x="0" y="658" width="621" height="640" frameX="-58" frameY="-29" frameWidth="720" frameHeight="720" />
+<SubTexture name="cake at stake0027" x="0" y="658" width="621" height="640" frameX="-58" frameY="-29" frameWidth="720" frameHeight="720" />
+<SubTexture name="I SAID0000" x="3720" y="2333" width="536" height="578" frameX="-88" frameY="-92" frameWidth="720" frameHeight="720" />
+<SubTexture name="I SAID0001" x="3720" y="2333" width="536" height="578" frameX="-88" frameY="-92" frameWidth="720" frameHeight="720" />
+<SubTexture name="I SAID0002" x="598" y="1921" width="640" height="594" frameX="-43" frameY="-70" frameWidth="720" frameHeight="720" />
+<SubTexture name="I SAID0003" x="1238" y="1921" width="640" height="594" frameX="-43" frameY="-70" frameWidth="720" frameHeight="720" />
+<SubTexture name="I SAID0004" x="1878" y="1921" width="640" height="594" frameX="-43" frameY="-70" frameWidth="720" frameHeight="720" />
+<SubTexture name="I SAID0005" x="3080" y="0" width="640" height="594" frameX="-43" frameY="-70" frameWidth="720" frameHeight="720" />
+<SubTexture name="I SAID0006" x="3080" y="594" width="640" height="594" frameX="-43" frameY="-70" frameWidth="720" frameHeight="720" />
+<SubTexture name="I SAID0007" x="3080" y="1188" width="640" height="594" frameX="-43" frameY="-70" frameWidth="720" frameHeight="720" />
+<SubTexture name="I SAID0008" x="3080" y="1782" width="640" height="594" frameX="-43" frameY="-70" frameWidth="720" frameHeight="720" />
+<SubTexture name="I SAID0009" x="3080" y="1782" width="640" height="594" frameX="-43" frameY="-70" frameWidth="720" frameHeight="720" />
+<SubTexture name="I SAID0010" x="3720" y="2911" width="527" height="552" frameX="-98" frameY="-108" frameWidth="720" frameHeight="720" />
+<SubTexture name="I SAID0011" x="2518" y="1921" width="526" height="526" frameX="-103" frameY="-132" frameWidth="720" frameHeight="720" />
+<SubTexture name="I SAID0012" x="2518" y="1921" width="526" height="526" frameX="-103" frameY="-132" frameWidth="720" frameHeight="720" />
+<SubTexture name="I SAID0013" x="3080" y="0" width="640" height="594" frameX="-43" frameY="-70" frameWidth="720" frameHeight="720" />
+<SubTexture name="I SAID0014" x="3080" y="594" width="640" height="594" frameX="-43" frameY="-70" frameWidth="720" frameHeight="720" />
+<SubTexture name="I SAID0015" x="0" y="2515" width="640" height="594" frameX="-43" frameY="-70" frameWidth="720" frameHeight="720" />
+<SubTexture name="I SAID0016" x="640" y="2515" width="640" height="594" frameX="-43" frameY="-70" frameWidth="720" frameHeight="720" />
+<SubTexture name="I SAID0017" x="1280" y="2515" width="640" height="594" frameX="-43" frameY="-70" frameWidth="720" frameHeight="720" />
+<SubTexture name="I SAID0018" x="1920" y="2515" width="640" height="594" frameX="-43" frameY="-70" frameWidth="720" frameHeight="720" />
+<SubTexture name="I SAID0019" x="2560" y="2515" width="640" height="594" frameX="-43" frameY="-70" frameWidth="720" frameHeight="720" />
+<SubTexture name="I SAID0020" x="0" y="3109" width="640" height="594" frameX="-43" frameY="-70" frameWidth="720" frameHeight="720" />
+<SubTexture name="I SAID0021" x="640" y="3109" width="640" height="594" frameX="-43" frameY="-70" frameWidth="720" frameHeight="720" />
+<SubTexture name="I SAID0022" x="1280" y="3109" width="640" height="594" frameX="-43" frameY="-70" frameWidth="720" frameHeight="720" />
+<SubTexture name="I SAID0023" x="1920" y="3109" width="640" height="594" frameX="-43" frameY="-70" frameWidth="720" frameHeight="720" />
+<SubTexture name="I SAID0024" x="2560" y="3109" width="640" height="594" frameX="-43" frameY="-70" frameWidth="720" frameHeight="720" />
+<SubTexture name="I SAID0025" x="2560" y="3109" width="640" height="594" frameX="-43" frameY="-70" frameWidth="720" frameHeight="720" />
+<SubTexture name="I SAID0026" x="2440" y="0" width="640" height="603" frameX="-15" frameY="-78" frameWidth="720" frameHeight="720" />
+<SubTexture name="I SAID0027" x="2440" y="603" width="640" height="603" frameX="-66" frameY="-56" frameWidth="720" frameHeight="720" />
+<SubTexture name="I SAID0028" x="2440" y="603" width="640" height="603" frameX="-32" frameY="-68" frameWidth="720" frameHeight="720" />
+<SubTexture name="I SAID0029" x="2440" y="603" width="640" height="603" frameX="-48" frameY="-58" frameWidth="720" frameHeight="720" />
+<SubTexture name="I SAID0030" x="2440" y="1206" width="640" height="603" frameX="-43" frameY="-61" frameWidth="720" frameHeight="720" />
+<SubTexture name="I SAID0031" x="2440" y="1206" width="640" height="603" frameX="-43" frameY="-61" frameWidth="720" frameHeight="720" />
+<SubTexture name="I SAID0032" x="2440" y="1206" width="640" height="603" frameX="-43" frameY="-61" frameWidth="720" frameHeight="720" />
+</TextureAtlas>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="firyey.png">
+<SubTexture name="firyey down0000" x="499" y="0" width="525" height="517" frameX="-21" frameY="-45" frameWidth="580" frameHeight="580" />
+<SubTexture name="firyey down0001" x="0" y="0" width="499" height="523" frameX="-33" frameY="-39" frameWidth="580" frameHeight="580" />
+<SubTexture name="firyey idkman0000" x="1025" y="523" width="495" height="451" frameX="-53" frameY="-65" frameWidth="580" frameHeight="580" />
+<SubTexture name="firyey idkman0001" x="1022" y="1026" width="481" height="432" frameX="-57" frameY="-79" frameWidth="580" frameHeight="580" />
+<SubTexture name="firyey right0000" x="505" y="523" width="520" height="476" frameX="-54" frameY="-46" frameWidth="580" frameHeight="580" />
+<SubTexture name="firyey right0001" x="503" y="1026" width="519" height="465" frameX="-61" frameY="-57" frameWidth="580" frameHeight="580" />
+<SubTexture name="firyey idle0000" x="0" y="1026" width="503" height="468" frameX="-54" frameY="-90" frameWidth="580" frameHeight="580" />
+<SubTexture name="firyey singleft0000" x="1024" y="0" width="499" height="504" frameX="-11" frameY="-14" frameWidth="580" frameHeight="580" />
+<SubTexture name="firyey singleft0001" x="0" y="523" width="505" height="503" frameX="-15" frameY="-14" frameWidth="580" frameHeight="580" />
+</TextureAtlas>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="four-gf-alt.png">
+<SubTexture name="boy I sure hope a cyan number six doesn't snatch this blue drink0000" x="0" y="0" width="1369" height="1704" frameX="-337" frameY="-273" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="boy I sure hope a cyan number six doesn't snatch this blue drink0001" x="1369" y="0" width="1369" height="1704" frameX="-337" frameY="-273" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="boy I sure hope a cyan number six doesn't snatch this blue drink0002" x="2738" y="0" width="1369" height="1704" frameX="-337" frameY="-273" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="boy I sure hope a cyan number six doesn't snatch this blue drink0003" x="2738" y="1704" width="1369" height="1702" frameX="-337" frameY="-275" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="boy I sure hope a cyan number six doesn't snatch this blue drink0004" x="4107" y="1699" width="1369" height="1698" frameX="-337" frameY="-279" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="boy I sure hope a cyan number six doesn't snatch this blue drink0005" x="0" y="3408" width="1369" height="1691" frameX="-337" frameY="-286" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="boy I sure hope a cyan number six doesn't snatch this blue drink0006" x="1369" y="3408" width="1369" height="1682" frameX="-337" frameY="-295" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="boy I sure hope a cyan number six doesn't snatch this blue drink0007" x="4107" y="3408" width="1369" height="1669" frameX="-337" frameY="-308" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="boy I sure hope a cyan number six doesn't snatch this blue drink0008" x="5476" y="1660" width="1369" height="1650" frameX="-337" frameY="-326" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="boy I sure hope a cyan number six doesn't snatch this blue drink0009" x="0" y="5099" width="1369" height="1627" frameX="-337" frameY="-349" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="boy I sure hope a cyan number six doesn't snatch this blue drink0010" x="1369" y="5099" width="1369" height="1599" frameX="-337" frameY="-377" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="boy I sure hope a cyan number six doesn't snatch this blue drink0011" x="5476" y="3310" width="1369" height="1634" frameX="-337" frameY="-342" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="boy I sure hope a cyan number six doesn't snatch this blue drink0012" x="5476" y="0" width="1369" height="1660" frameX="-337" frameY="-317" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="boy I sure hope a cyan number six doesn't snatch this blue drink0013" x="2738" y="3408" width="1369" height="1679" frameX="-337" frameY="-298" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="boy I sure hope a cyan number six doesn't snatch this blue drink0014" x="0" y="3408" width="1369" height="1691" frameX="-337" frameY="-286" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="boy I sure hope a cyan number six doesn't snatch this blue drink0015" x="4107" y="0" width="1369" height="1699" frameX="-337" frameY="-278" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="boy I sure hope a cyan number six doesn't snatch this blue drink0016" x="1369" y="1704" width="1369" height="1703" frameX="-337" frameY="-274" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="boy I sure hope a cyan number six doesn't snatch this blue drink0017" x="0" y="1704" width="1369" height="1704" frameX="-337" frameY="-273" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="boy I sure hope a cyan number six doesn't snatch this blue drink0018" x="0" y="0" width="1369" height="1704" frameX="-337" frameY="-273" frameWidth="2048" frameHeight="2048" />
+</TextureAtlas>

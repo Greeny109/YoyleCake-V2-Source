@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				350,
+				742
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "FlowerIdle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				494,
+				712
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "FlowerLeft"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				376,
+				710
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "FlowerRight"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				41
+			],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Pico NOTE LEFT miss"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				62,
+				64
+			],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Pico Note Right Miss"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				425,
+				774
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "FlowerUp"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				373,
+				676
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "FlowerDown"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				210,
+				-28
+			],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Pico Down Note MISS"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-19,
+				67
+			],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "pico Up note miss"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/1aFlower1",
+	"position": [
+		0,
+		360
+	],
+	"healthicon": "flower-yik",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		153,
+		255
+	],
+	"camera_position": [
+		-60,
+		-490
+	],
+	"sing_duration": 5,
+	"scale": 0.8
+}

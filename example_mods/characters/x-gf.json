@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "bro hurry up i wanna sing"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/x_gf",
+	"position": [
+		-770,
+		-330
+	],
+	"healthicon": "x",
+	"flip_x": false,
+	"healthbar_colors": [
+		253,
+		254,
+		3
+	],
+	"camera_position": [
+		480,
+		570
+	],
+	"sing_duration": 4,
+	"scale": 0.4
+}

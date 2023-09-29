@@ -1,0 +1,67 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				104,
+				150
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "firey beatbox 2",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				81,
+				152
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "firey beatbox 4",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				82,
+				182
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "firey beatbox 3",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				44,
+				170
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "firey beatbox 1",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/WateryBeatbox",
+	"position": [
+		-130,
+		90
+	],
+	"healthicon": "watery",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		128,
+		255
+	],
+	"camera_position": [
+		120,
+		140
+	],
+	"sing_duration": 6.1,
+	"scale": 0.6
+}

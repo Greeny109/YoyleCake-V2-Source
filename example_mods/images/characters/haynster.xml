@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="haynster.png"><SubTexture name="haynster down0000" x="0" y="1780" width="685" height="556" frameX="-20" frameY="-200" frameWidth="768" frameHeight="768" />
+<SubTexture name="haynster down0001" x="685" y="1780" width="685" height="554" frameX="-20" frameY="-200" frameWidth="768" frameHeight="768" />
+<SubTexture name="haynster idle0000" x="1346" y="0" width="631" height="587" frameX="-68" frameY="-139" frameWidth="768" frameHeight="768" />
+<SubTexture name="haynster idle0001" x="1977" y="0" width="631" height="580" frameX="-65" frameY="-147" frameWidth="768" frameHeight="768" />
+<SubTexture name="haynster idle0002" x="1977" y="580" width="631" height="580" frameX="-65" frameY="-147" frameWidth="768" frameHeight="768" />
+<SubTexture name="haynster left0000" x="0" y="605" width="629" height="591" frameX="-14" frameY="-154" frameWidth="768" frameHeight="768" />
+<SubTexture name="haynster left0001" x="629" y="605" width="629" height="591" frameX="-14" frameY="-154" frameWidth="768" frameHeight="768" />
+<SubTexture name="haynster right0000" x="0" y="1196" width="704" height="584" frameX="-39" frameY="-144" frameWidth="768" frameHeight="768" />
+<SubTexture name="haynster right0001" x="704" y="1196" width="707" height="584" frameX="-36" frameY="-144" frameWidth="768" frameHeight="768" />
+<SubTexture name="haynster up0000" x="0" y="0" width="673" height="605" frameX="-20" frameY="-124" frameWidth="768" frameHeight="768" />
+<SubTexture name="haynster idle0003" x="1346" y="587" width="631" height="587" frameX="-68" frameY="-139" frameWidth="768" frameHeight="768" />
+<SubTexture name="haynster up0001" x="673" y="0" width="673" height="605" frameX="-20" frameY="-124" frameWidth="768" frameHeight="768" />
+</TextureAtlas>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="LeafyNotes.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blue0000" x="500" y="509" width="157" height="154"/>
+	<SubTexture name="blue hold end0000" x="707" y="305" width="50" height="64"/>
+	<SubTexture name="blue hold piece0000" x="707" y="533" width="50" height="44"/>
+	<SubTexture name="down confirm0000" x="20" y="20" width="238" height="235"/>
+	<SubTexture name="down confirm0001" x="308" y="20" width="238" height="235"/>
+	<SubTexture name="down confirm0002" x="596" y="20" width="238" height="235"/>
+	<SubTexture name="down confirm0003" x="596" y="20" width="238" height="235"/>
+	<SubTexture name="green0000" x="500" y="305" width="157" height="154"/>
+	<SubTexture name="green hold end0000" x="707" y="419" width="50" height="64"/>
+	<SubTexture name="green hold piece0000" x="20" y="585" width="50" height="44"/>
+	<SubTexture name="left confirm0000" x="1742" y="20" width="228" height="231"/>
+	<SubTexture name="left confirm0001" x="1742" y="301" width="228" height="231"/>
+	<SubTexture name="left confirm0002" x="884" y="302" width="228" height="231"/>
+	<SubTexture name="left confirm0003" x="884" y="302" width="228" height="231"/>
+	<SubTexture name="pruple end hold0000" x="707" y="419" width="50" height="64"/>
+	<SubTexture name="purple0000" x="296" y="512" width="154" height="157"/>
+	<SubTexture name="purple hold piece0000" x="20" y="585" width="50" height="44"/>
+	<SubTexture name="red0000" x="296" y="305" width="154" height="157"/>
+	<SubTexture name="red hold end0000" x="707" y="305" width="50" height="64"/>
+	<SubTexture name="red hold piece0000" x="707" y="533" width="50" height="44"/>
+	<SubTexture name="right confirm0000" x="1162" y="302" width="226" height="230"/>
+	<SubTexture name="right confirm0001" x="1438" y="302" width="226" height="230"/>
+	<SubTexture name="right confirm0002" x="20" y="305" width="226" height="230"/>
+	<SubTexture name="right confirm0003" x="20" y="305" width="226" height="230"/>
+	<SubTexture name="up confirm0000" x="884" y="20" width="236" height="232"/>
+	<SubTexture name="up confirm0001" x="1170" y="20" width="236" height="232"/>
+	<SubTexture name="up confirm0002" x="1456" y="20" width="236" height="232"/>
+	<SubTexture name="up confirm0003" x="1456" y="20" width="236" height="232"/>
+</TextureAtlas>

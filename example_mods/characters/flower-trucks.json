@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Flower-Two-Trucks Idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Flower-Two-Trucks Down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Flower-Two-Trucks Left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Flower-Two-Trucks Right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Flower-Two-Trucks Up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Flower-Two-Trucks",
+	"position": [
+		-710,
+		-30
+	],
+	"healthicon": "flower-tt",
+	"flip_x": true,
+	"healthbar_colors": [
+		254,
+		133,
+		255
+	],
+	"camera_position": [
+		-280,
+		60
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

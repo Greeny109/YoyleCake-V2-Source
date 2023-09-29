@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pencil_april_fools.png">
+<SubTexture name="down0000" x="988" y="2409" width="912" height="864" frameX="-184" frameY="-285" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="down0001" x="2608" y="1056" width="840" height="943" frameX="-220" frameY="-210" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="idle0000" x="0" y="3304" width="1270" height="715" frameX="0" frameY="-450" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="idle0001" x="3525" y="0" width="1218" height="842" frameX="-28" frameY="-318" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="idle0002" x="1900" y="2409" width="1104" height="862" frameX="-88" frameY="-292" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="left0000" x="2608" y="0" width="917" height="1056" frameX="-34" frameY="-99" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="left0001" x="0" y="1280" width="852" height="1129" frameX="-119" frameY="-49" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="miss0000" x="1746" y="0" width="862" height="1145" frameX="-207" frameY="-68" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="miss0001" x="3525" y="842" width="928" height="531" frameX="-177" frameY="-679" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="miss0002" x="3525" y="1373" width="1191" height="253" frameX="-42" frameY="-972" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="right0000" x="852" y="1280" width="954" height="1097" frameX="-302" frameY="-101" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="right0001" x="868" y="0" width="878" height="1199" frameX="-298" frameY="-26" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="up0000" x="0" y="2409" width="988" height="895" frameX="-145" frameY="0" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="up0001" x="0" y="0" width="868" height="1280" frameX="-209" frameY="0" frameWidth="1280" frameHeight="1280" />
+</TextureAtlas>

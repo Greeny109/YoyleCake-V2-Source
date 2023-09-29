@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="beefy.png">
+<SubTexture name="down0000" x="3558" y="731" width="1063" height="710" frameX="-209" frameY="-984" frameWidth="1495" frameHeight="1970" />
+<SubTexture name="down0001" x="3558" y="0" width="1068" height="731" frameX="-197" frameY="-963" frameWidth="1495" frameHeight="1970" />
+<SubTexture name="idle0000" x="1899" y="1808" width="852" height="1502" frameX="-312" frameY="-195" frameWidth="1495" frameHeight="1970" />
+<SubTexture name="left0000" x="0" y="1808" width="964" height="1546" frameX="-136" frameY="-152" frameWidth="1495" frameHeight="1970" />
+<SubTexture name="left0001" x="964" y="1808" width="935" height="1513" frameX="-181" frameY="-185" frameWidth="1495" frameHeight="1970" />
+<SubTexture name="right0000" x="1530" y="0" width="1035" height="1676" frameX="-403" frameY="-22" frameWidth="1495" frameHeight="1970" />
+<SubTexture name="right0001" x="2565" y="0" width="993" height="1644" frameX="-389" frameY="-54" frameWidth="1495" frameHeight="1970" />
+<SubTexture name="up0000" x="0" y="0" width="765" height="1808" frameX="-372" frameY="-11" frameWidth="1495" frameHeight="1970" />
+<SubTexture name="up0001" x="765" y="0" width="765" height="1720" frameX="-371" frameY="-99" frameWidth="1495" frameHeight="1970" />
+</TextureAtlas>

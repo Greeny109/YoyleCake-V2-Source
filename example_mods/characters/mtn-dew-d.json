@@ -1,0 +1,152 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-3,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Left Miss"
+		},
+		{
+			"offsets": [
+				-6,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Up Miss"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				3
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Right Miss",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-3,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Down Miss"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				0
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "Idle",
+			"indices": [
+				1,
+				2,
+				4,
+				7,
+				9
+			]
+		},
+		{
+			"offsets": [
+				14,
+				-1
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singLEFT",
+			"indices": [
+				2,
+				4,
+				6,
+				7,
+				8
+			],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				-24,
+				0
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singRIGHT",
+			"indices": [
+				1,
+				4,
+				5,
+				6,
+				7
+			],
+			"name": "Right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				-1
+			],
+			"anim": "singUP",
+			"fps": 16,
+			"name": "Up",
+			"indices": [
+				1,
+				3,
+				4,
+				5,
+				6
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 16,
+			"name": "Down",
+			"indices": [
+				1,
+				3,
+				4,
+				5,
+				6
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Mtn-Dew-D-Sides",
+	"position": [
+		-840,
+		-200
+	],
+	"healthicon": "mtn-dew-d",
+	"flip_x": true,
+	"healthbar_colors": [
+		204,
+		92,
+		255
+	],
+	"camera_position": [
+		-230,
+		180
+	],
+	"sing_duration": 4,
+	"scale": 0.85
+}

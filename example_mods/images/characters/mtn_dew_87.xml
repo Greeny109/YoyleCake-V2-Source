@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="mtn_dew_87.png">
+<SubTexture name="down0000" x="934" y="0" width="413" height="996" frameX="-712" frameY="-7" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="down0001" x="1347" y="0" width="413" height="996" frameX="-712" frameY="-7" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="down0002" x="1760" y="0" width="413" height="996" frameX="-712" frameY="-7" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="idle0000" x="0" y="1023" width="413" height="996" frameX="-712" frameY="-7" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="left0000" x="413" y="1023" width="413" height="996" frameX="-712" frameY="-7" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="left0001" x="826" y="1023" width="413" height="996" frameX="-712" frameY="-7" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="right0000" x="1239" y="1023" width="413" height="996" frameX="-712" frameY="-7" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="right0001" x="1652" y="1023" width="413" height="996" frameX="-712" frameY="-7" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="up0000" x="2173" y="0" width="413" height="996" frameX="-712" frameY="-7" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="up0001" x="2173" y="996" width="413" height="996" frameX="-712" frameY="-7" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="up0002" x="2586" y="0" width="413" height="996" frameX="-712" frameY="-7" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="miss0000" x="0" y="0" width="934" height="1023" frameX="-318" frameY="-8" frameWidth="1920" frameHeight="1080" />
+</TextureAtlas>

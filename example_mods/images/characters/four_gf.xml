@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="four_gf.png">
+<SubTexture name="im going to despawn you later0000" x="0" y="0" width="673" height="888" frameX="-159" frameY="-68" frameWidth="1091" frameHeight="1051" />
+</TextureAtlas>

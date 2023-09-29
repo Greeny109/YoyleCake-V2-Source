@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="firey_cakeatstake.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="CAKEATSTAKE0000" x="20" y="20" width="968" height="1009"/>
+	<SubTexture name="CAKEATSTAKE0001" x="20" y="1079" width="968" height="1009"/>
+	<SubTexture name="CAKEATSTAKE0002" x="20" y="2138" width="968" height="1009"/>
+	<SubTexture name="CAKEATSTAKE0003" x="20" y="3197" width="968" height="1009"/>
+	<SubTexture name="CAKEATSTAKE0004" x="20" y="4256" width="968" height="1009"/>
+	<SubTexture name="CAKEATSTAKE0005" x="20" y="5315" width="968" height="1009"/>
+	<SubTexture name="CAKEATSTAKE0006" x="20" y="6374" width="968" height="1009"/>
+	<SubTexture name="CAKEATSTAKE0007" x="1038" y="20" width="968" height="1009"/>
+	<SubTexture name="CAKEATSTAKE0008" x="2056" y="20" width="968" height="1009"/>
+	<SubTexture name="CAKEATSTAKE0009" x="3074" y="20" width="968" height="1009"/>
+	<SubTexture name="CAKEATSTAKE0010" x="4092" y="20" width="968" height="1009"/>
+	<SubTexture name="CAKEATSTAKE0011" x="5110" y="20" width="968" height="1009"/>
+	<SubTexture name="CAKEATSTAKE0012" x="6128" y="20" width="968" height="1009"/>
+	<SubTexture name="CAKEATSTAKE0013" x="7146" y="20" width="968" height="1009"/>
+	<SubTexture name="CAKEATSTAKE0014" x="1038" y="1079" width="968" height="1009"/>
+	<SubTexture name="CAKEATSTAKE0015" x="1038" y="2138" width="968" height="1009"/>
+	<SubTexture name="CAKEATSTAKE0016" x="1038" y="3197" width="968" height="1009"/>
+	<SubTexture name="CAKEATSTAKE0017" x="1038" y="4256" width="968" height="1009"/>
+	<SubTexture name="CAKEATSTAKE0018" x="1038" y="5315" width="968" height="1009"/>
+	<SubTexture name="CAKEATSTAKE0019" x="1038" y="6374" width="968" height="1009"/>
+	<SubTexture name="CAKEATSTAKE0020" x="2056" y="1079" width="968" height="1009"/>
+	<SubTexture name="CAKEATSTAKE0021" x="3074" y="1079" width="968" height="1009"/>
+	<SubTexture name="CAKEATSTAKE0022" x="4092" y="1079" width="968" height="1009"/>
+	<SubTexture name="CAKEATSTAKE0023" x="5110" y="1079" width="968" height="1009"/>
+	<SubTexture name="CAKEATSTAKE0024" x="6128" y="1079" width="968" height="1009"/>
+	<SubTexture name="CAKEATSTAKE0025" x="7146" y="1079" width="968" height="1009"/>
+	<SubTexture name="CAKEATSTAKE0026" x="2056" y="2138" width="968" height="1009"/>
+	<SubTexture name="CAKEATSTAKE0027" x="2056" y="3197" width="968" height="1009"/>
+	<SubTexture name="CAKEATSTAKE0028" x="2056" y="4256" width="968" height="1009"/>
+	<SubTexture name="CAKEATSTAKE0029" x="2056" y="5315" width="968" height="1009"/>
+	<SubTexture name="CAKEATSTAKE0030" x="2056" y="6374" width="968" height="1009"/>
+	<SubTexture name="CAKEATSTAKE0031" x="3074" y="2138" width="968" height="1009"/>
+	<SubTexture name="CAKEATSTAKE0032" x="4092" y="2138" width="968" height="1009"/>
+	<SubTexture name="CAKEATSTAKE0033" x="5110" y="2138" width="968" height="1009"/>
+	<SubTexture name="CAKEATSTAKE0034" x="6128" y="2138" width="968" height="1009"/>
+	<SubTexture name="CAKEATSTAKE0035" x="7146" y="2138" width="968" height="1009"/>
+	<SubTexture name="CAKEATSTAKE0036" x="3074" y="3197" width="968" height="1009"/>
+	<SubTexture name="CAKEATSTAKE0037" x="3074" y="4256" width="968" height="1009"/>
+	<SubTexture name="CAKEATSTAKE0038" x="3074" y="5315" width="968" height="1009"/>
+	<SubTexture name="CAKEATSTAKE0039" x="3074" y="6374" width="968" height="1009"/>
+	<SubTexture name="CAKEATSTAKE0040" x="4092" y="3197" width="968" height="1009"/>
+	<SubTexture name="CAKEATSTAKE0041" x="5110" y="3197" width="968" height="1009"/>
+	<SubTexture name="CAKEATSTAKE0042" x="6128" y="3197" width="968" height="1009"/>
+	<SubTexture name="CAKEATSTAKE0043" x="7146" y="3197" width="968" height="1009"/>
+	<SubTexture name="CAKEATSTAKE0044" x="4092" y="4256" width="968" height="1009"/>
+	<SubTexture name="CAKEATSTAKE0045" x="4092" y="5315" width="968" height="1009"/>
+	<SubTexture name="CAKEATSTAKE0046" x="4092" y="6374" width="968" height="1009"/>
+	<SubTexture name="CAKEATSTAKE0047" x="5110" y="4256" width="968" height="1009"/>
+	<SubTexture name="CAKEATSTAKE0048" x="6128" y="4256" width="968" height="1009"/>
+	<SubTexture name="CAKEATSTAKE0049" x="7146" y="4256" width="968" height="1009"/>
+	<SubTexture name="CAKEATSTAKE0050" x="5110" y="5315" width="968" height="1009"/>
+	<SubTexture name="CAKEATSTAKE0051" x="5110" y="6374" width="968" height="1009"/>
+	<SubTexture name="CAKEATSTAKE0052" x="6128" y="5315" width="968" height="1009"/>
+	<SubTexture name="CAKEATSTAKE0053" x="7146" y="5315" width="968" height="1009"/>
+</TextureAtlas>

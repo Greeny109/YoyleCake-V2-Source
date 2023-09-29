@@ -1,0 +1,160 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				12
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				22,
+				-5
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-26,
+				12
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				13
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				13
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 12,
+			"name": "your",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				27,
+				-12
+			],
+			"anim": "singDOWNmiss",
+			"fps": 12,
+			"name": "im",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				12
+			],
+			"anim": "singLEFTmiss",
+			"fps": 12,
+			"name": "in",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-26,
+				17
+			],
+			"anim": "singUPmiss",
+			"fps": 12,
+			"name": "walls",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "firstDeath",
+			"fps": 12,
+			"name": "game over",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				-49
+			],
+			"anim": "deathConfirm",
+			"fps": 12,
+			"name": "retry",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-6,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [
+				0,
+				1,
+				2,
+				4
+			],
+			"name": "idle"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-3,
+				-49
+			],
+			"anim": "deathLoop",
+			"fps": 12,
+			"name": "retry",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mtn_dew_old",
+	"position": [
+		-350,
+		-460
+	],
+	"healthicon": "mtn-dew",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-190,
+		520
+	],
+	"sing_duration": 4,
+	"scale": 0.5
+}

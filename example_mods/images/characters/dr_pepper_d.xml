@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="dr_pepper_d.png">
+<SubTexture name="idle0000" x="0" y="0" width="520" height="962" frameX="-580" frameY="-61" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="idle0001" x="0" y="0" width="520" height="962" frameX="-580" frameY="-61" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="idle0002" x="520" y="0" width="520" height="956" frameX="-580" frameY="-67" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="idle0003" x="1040" y="0" width="520" height="952" frameX="-580" frameY="-71" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="idle0004" x="1040" y="0" width="520" height="952" frameX="-580" frameY="-71" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="idle0005" x="1560" y="0" width="520" height="949" frameX="-580" frameY="-74" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="idle0006" x="0" y="962" width="520" height="947" frameX="-580" frameY="-76" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="idle0007" x="520" y="962" width="520" height="946" frameX="-580" frameY="-77" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="idle0008" x="520" y="962" width="520" height="946" frameX="-580" frameY="-77" frameWidth="1920" frameHeight="1080" />
+</TextureAtlas>

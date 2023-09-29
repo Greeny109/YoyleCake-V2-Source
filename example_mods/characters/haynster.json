@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 8,
+			"name": "haynster idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				4
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "haynster left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				4
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "haynster right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				3
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "haynster down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				1
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "haynster up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/haynster",
+	"position": [
+		-100,
+		70
+	],
+	"healthicon": "haynster",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-200,
+		270
+	],
+	"sing_duration": 4,
+	"scale": 0.5
+}

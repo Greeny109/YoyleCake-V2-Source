@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				48,
+				35
+			],
+			"anim": "line 1",
+			"fps": 16,
+			"name": "yoyoyo",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				32,
+				21
+			],
+			"anim": "line 2",
+			"fps": 16,
+			"name": "bro",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				129,
+				175
+			],
+			"anim": "line 3",
+			"fps": 16,
+			"name": "wazzup",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/nine_speaks_wow",
+	"position": [
+		2100,
+		240
+	],
+	"healthicon": "nine",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-580,
+		-190
+	],
+	"sing_duration": 4,
+	"scale": 1.6
+}

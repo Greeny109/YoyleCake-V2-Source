@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="notes.png">
+<SubTexture name="how is it moving0000" x="0" y="0" width="846" height="278" frameX="-186" frameY="-347" frameWidth="1220" frameHeight="820" />
+</TextureAtlas>

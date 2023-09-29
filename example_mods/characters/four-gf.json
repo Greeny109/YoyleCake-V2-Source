@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "im going to despawn you later",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/four_gf",
+	"position": [
+		-240,
+		-90
+	],
+	"healthicon": "four",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		153
+	],
+	"camera_position": [
+		20,
+		250
+	],
+	"sing_duration": 4,
+	"scale": 0.65
+}

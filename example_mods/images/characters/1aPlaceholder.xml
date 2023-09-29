@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="1aPlaceholder.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="PCIdle0000" x="13" y="13" width="517" height="521"/>
+	<SubTexture name="PCIdle0001" x="13" y="13" width="517" height="521"/>
+	<SubTexture name="PCIdle0002" x="543" y="13" width="517" height="521"/>
+	<SubTexture name="PCIdle0003" x="543" y="13" width="517" height="521"/>
+	<SubTexture name="PCIdle0004" x="1073" y="13" width="517" height="521"/>
+	<SubTexture name="PCIdle0005" x="1073" y="13" width="517" height="521"/>
+	<SubTexture name="PCIdle0006" x="1603" y="13" width="517" height="521"/>
+	<SubTexture name="PCIdle0007" x="1603" y="13" width="517" height="521"/>
+	<SubTexture name="PCIdle0008" x="13" y="547" width="517" height="521"/>
+	<SubTexture name="PCIdle0009" x="13" y="547" width="517" height="521"/>
+	<SubTexture name="PCIdle0010" x="13" y="547" width="517" height="521"/>
+	<SubTexture name="PCIdle0011" x="13" y="547" width="517" height="521"/>
+	<SubTexture name="PCIdle0012" x="13" y="547" width="517" height="521"/>
+	<SubTexture name="PCIdle0013" x="13" y="547" width="517" height="521"/>
+	<SubTexture name="PCSing0000" x="543" y="547" width="523" height="527"/>
+	<SubTexture name="PCSing0001" x="1079" y="547" width="523" height="527"/>
+	<SubTexture name="PCSing0002" x="1615" y="547" width="523" height="527"/>
+	<SubTexture name="PCSing0003" x="13" y="1087" width="523" height="527"/>
+	<SubTexture name="PCSing0004" x="549" y="1087" width="523" height="527"/>
+	<SubTexture name="PCSing0005" x="1085" y="1087" width="523" height="527"/>
+	<SubTexture name="PCSing0006" x="1621" y="1087" width="523" height="527"/>
+</TextureAtlas>

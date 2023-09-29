@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				1
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "lego LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				-2
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "lego DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				5
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "lego UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				1
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "lego RIGHT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-4,
+				0
+			],
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Lego IDLE"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/lego_seb",
+	"position": [
+		-180,
+		370
+	],
+	"healthicon": "lego-brick",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-50,
+		170
+	],
+	"sing_duration": 4,
+	"scale": 0.6
+}

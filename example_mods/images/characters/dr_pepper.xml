@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="dr_pepper.png">
+<SubTexture name="dr_pepper i am inside your walls0000" x="1140" y="0" width="1140" height="1860" frameX="-473" frameY="-191" frameWidth="2048" frameHeight="2455" />
+<SubTexture name="dr_pepper i am inside your walls0001" x="1140" y="0" width="1140" height="1860" frameX="-473" frameY="-156" frameWidth="2048" frameHeight="2420" />
+<SubTexture name="dr_pepper i am inside your walls0002" x="3420" y="0" width="1140" height="1816" frameX="-473" frameY="-235" frameWidth="2048" frameHeight="2455" />
+<SubTexture name="dr_pepper i am inside your walls0003" x="2280" y="0" width="1140" height="1844" frameX="-473" frameY="-207" frameWidth="2048" frameHeight="2455" />
+<SubTexture name="dr_pepper i am inside your walls0004" x="0" y="0" width="1140" height="1861" frameX="-472" frameY="-190" frameWidth="2048" frameHeight="2455" />
+</TextureAtlas>

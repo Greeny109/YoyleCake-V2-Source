@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "line",
+			"loop": false,
+			"name": "dearmath"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "line 2",
+			"loop": false,
+			"name": "annoying"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/five-dialogue",
+	"position": [
+		-319,
+		-3
+	],
+	"healthicon": "five",
+	"flip_x": false,
+	"healthbar_colors": [
+		219,
+		71,
+		157
+	],
+	"camera_position": [
+		225,
+		110
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

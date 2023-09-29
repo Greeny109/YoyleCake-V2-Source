@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="mtn_dew_old.png">
+<SubTexture name="down0000" x="7130" y="0" width="747" height="1449" frameX="-241" frameY="-96" frameWidth="1200" frameHeight="1633" />
+<SubTexture name="down0001" x="6388" y="0" width="742" height="1450" frameX="-233" frameY="-96" frameWidth="1200" frameHeight="1633" />
+<SubTexture name="game over0000" x="1824" y="4691" width="721" height="1481" frameX="-157" frameY="-116" frameWidth="1200" frameHeight="1633" />
+<SubTexture name="game over0001" x="5152" y="4691" width="722" height="1451" frameX="-303" frameY="-91" frameWidth="1200" frameHeight="1633" />
+<SubTexture name="game over0002" x="4945" y="2995" width="721" height="1483" frameX="-194" frameY="-66" frameWidth="1200" frameHeight="1633" />
+<SubTexture name="game over0003" x="4945" y="0" width="721" height="1498" frameX="-248" frameY="-83" frameWidth="1200" frameHeight="1633" />
+<SubTexture name="game over0004" x="4945" y="1498" width="721" height="1497" frameX="-222" frameY="-66" frameWidth="1200" frameHeight="1633" />
+<SubTexture name="game over0005" x="4945" y="1498" width="721" height="1497" frameX="-222" frameY="-66" frameWidth="1200" frameHeight="1633" />
+<SubTexture name="game over0006" x="4945" y="1498" width="721" height="1497" frameX="-222" frameY="-66" frameWidth="1200" frameHeight="1633" />
+<SubTexture name="game over0007" x="5666" y="0" width="722" height="1497" frameX="-234" frameY="-74" frameWidth="1200" frameHeight="1633" />
+<SubTexture name="game over0008" x="5666" y="1497" width="722" height="1497" frameX="-234" frameY="-74" frameWidth="1200" frameHeight="1633" />
+<SubTexture name="game over0009" x="5666" y="2994" width="722" height="1497" frameX="-234" frameY="-74" frameWidth="1200" frameHeight="1633" />
+<SubTexture name="game over0010" x="7130" y="2889" width="719" height="258" frameX="-234" frameY="-778" frameWidth="1200" frameHeight="1633" />
+<SubTexture name="game over0011" x="7130" y="4207" width="717" height="108" frameX="-235" frameY="-830" frameWidth="1200" frameHeight="1633" />
+<SubTexture name="game over0012" x="0" y="0" width="1200" height="1633" frameX="0" frameY="0" frameWidth="1200" frameHeight="1633" />
+<SubTexture name="game over0013" x="7130" y="3379" width="679" height="231" frameX="-242" frameY="-771" frameWidth="1200" frameHeight="1618" />
+<SubTexture name="game over0014" x="7130" y="3833" width="627" height="187" frameX="-286" frameY="-698" frameWidth="1200" frameHeight="1519" />
+<SubTexture name="idle0000" x="2545" y="4691" width="922" height="1478" frameX="-135" frameY="-102" frameWidth="1200" frameHeight="1666" />
+<SubTexture name="idle0001" x="0" y="3179" width="964" height="1512" frameX="-114" frameY="-68" frameWidth="1200" frameHeight="1666" />
+<SubTexture name="idle0002" x="1740" y="1633" width="938" height="1526" frameX="-145" frameY="-54" frameWidth="1200" frameHeight="1666" />
+<SubTexture name="idle0003" x="4014" y="0" width="931" height="1513" frameX="-131" frameY="-43" frameWidth="1200" frameHeight="1642" />
+<SubTexture name="left0000" x="4014" y="1513" width="842" height="1511" frameX="-200" frameY="-68" frameWidth="1200" frameHeight="1633" />
+<SubTexture name="left0001" x="964" y="3179" width="871" height="1511" frameX="-171" frameY="-68" frameWidth="1200" frameHeight="1633" />
+<SubTexture name="left0002" x="1835" y="3179" width="892" height="1511" frameX="-177" frameY="-68" frameWidth="1200" frameHeight="1633" />
+<SubTexture name="im0000" x="0" y="6187" width="791" height="1403" frameX="-192" frameY="-146" frameWidth="1200" frameHeight="1633" />
+<SubTexture name="im0001" x="7130" y="1449" width="742" height="1440" frameX="-226" frameY="-97" frameWidth="1200" frameHeight="1633" />
+<SubTexture name="in0000" x="0" y="4691" width="904" height="1496" frameX="-155" frameY="-83" frameWidth="1200" frameHeight="1633" />
+<SubTexture name="in0001" x="904" y="4691" width="920" height="1488" frameX="-156" frameY="-91" frameWidth="1200" frameHeight="1633" />
+<SubTexture name="your0000" x="3467" y="4691" width="844" height="1477" frameX="-250" frameY="-104" frameWidth="1200" frameHeight="1633" />
+<SubTexture name="your0001" x="4311" y="4691" width="841" height="1476" frameX="-251" frameY="-104" frameWidth="1200" frameHeight="1633" />
+<SubTexture name="walls0000" x="3034" y="0" width="980" height="1550" frameX="-104" frameY="-37" frameWidth="1200" frameHeight="1633" />
+<SubTexture name="walls0001" x="1200" y="0" width="964" height="1569" frameX="-111" frameY="-18" frameWidth="1200" frameHeight="1633" />
+<SubTexture name="retry0000" x="7130" y="4020" width="627" height="187" frameX="-286" frameY="-600" frameWidth="1200" frameHeight="1421" />
+<SubTexture name="retry0001" x="791" y="6187" width="776" height="233" frameX="-213" frameY="-577" frameWidth="1200" frameHeight="1421" />
+<SubTexture name="retry0002" x="7130" y="3610" width="646" height="223" frameX="-254" frameY="-580" frameWidth="1200" frameHeight="1421" />
+<SubTexture name="retry0003" x="7130" y="3147" width="679" height="232" frameX="-242" frameY="-573" frameWidth="1200" frameHeight="1421" />
+<SubTexture name="right0000" x="2678" y="1633" width="833" height="1515" frameX="-265" frameY="-66" frameWidth="1200" frameHeight="1633" />
+<SubTexture name="right0001" x="3566" y="3179" width="837" height="1503" frameX="-280" frameY="-78" frameWidth="1200" frameHeight="1633" />
+<SubTexture name="right0002" x="2727" y="3179" width="839" height="1507" frameX="-285" frameY="-74" frameWidth="1200" frameHeight="1633" />
+<SubTexture name="up0000" x="2164" y="0" width="870" height="1566" frameX="-156" frameY="-11" frameWidth="1200" frameHeight="1633" />
+<SubTexture name="up0001" x="0" y="1633" width="874" height="1546" frameX="-153" frameY="-32" frameWidth="1200" frameHeight="1633" />
+<SubTexture name="up0002" x="874" y="1633" width="866" height="1528" frameX="-156" frameY="-49" frameWidth="1200" frameHeight="1633" />
+<SubTexture name="retry0004" x="7130" y="4020" width="627" height="187" frameX="-286" frameY="-600" frameWidth="1200" frameHeight="1421" />
+</TextureAtlas>

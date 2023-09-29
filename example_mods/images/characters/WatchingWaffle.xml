@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="WatchingWaffle.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Waffle Watching0000" x="20" y="20" width="963" height="689"/>
+	<SubTexture name="Waffle Watching0001" x="20" y="20" width="963" height="689"/>
+	<SubTexture name="Waffle Watching0002" x="1033" y="20" width="963" height="689"/>
+	<SubTexture name="Waffle Watching0003" x="1033" y="20" width="963" height="689"/>
+	<SubTexture name="Waffle Watching0004" x="2046" y="20" width="963" height="689"/>
+	<SubTexture name="Waffle Watching0005" x="2046" y="20" width="963" height="689"/>
+	<SubTexture name="Waffle Watching0006" x="3059" y="20" width="963" height="689"/>
+	<SubTexture name="Waffle Watching0007" x="3059" y="20" width="963" height="689"/>
+	<SubTexture name="Waffle Watching0008" x="20" y="759" width="963" height="689"/>
+	<SubTexture name="Waffle Watching0009" x="20" y="759" width="963" height="689"/>
+	<SubTexture name="Waffle Watching0010" x="20" y="759" width="963" height="689"/>
+	<SubTexture name="Waffle Watching0011" x="20" y="759" width="963" height="689"/>
+	<SubTexture name="Waffle Watching0012" x="20" y="759" width="963" height="689"/>
+	<SubTexture name="Waffle Watching0013" x="20" y="759" width="963" height="689"/>
+	<SubTexture name="Waffle Watching0014" x="20" y="759" width="963" height="689"/>
+</TextureAtlas>

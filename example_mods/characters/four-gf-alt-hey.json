@@ -1,0 +1,48 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				0
+			],
+			"anim": "hey",
+			"fps": 12,
+			"name": "GOD FUCKING DAMN IT BRO",
+			"indices": []
+		},
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [
+				15,
+				16
+			],
+			"name": "GOD FUCKING DAMN IT BRO"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/four-gf-alt-2",
+	"position": [
+		-930,
+		-540
+	],
+	"healthicon": "four",
+	"flip_x": false,
+	"healthbar_colors": [
+		253,
+		254,
+		3
+	],
+	"camera_position": [
+		860,
+		620
+	],
+	"sing_duration": 4,
+	"scale": 0.35
+}

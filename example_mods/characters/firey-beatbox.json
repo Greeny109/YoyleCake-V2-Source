@@ -1,0 +1,67 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				94,
+				163
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "firey beatbox 2"
+		},
+		{
+			"offsets": [
+				81,
+				152
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "firey beatbox 4"
+		},
+		{
+			"offsets": [
+				62,
+				162
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "firey beatbox 3"
+		},
+		{
+			"offsets": [
+				34,
+				160
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "firey beatbox 1"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bubuph",
+	"position": [
+		-130,
+		90
+	],
+	"healthicon": "firey",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		120,
+		140
+	],
+	"sing_duration": 6.1,
+	"scale": 0.6
+}

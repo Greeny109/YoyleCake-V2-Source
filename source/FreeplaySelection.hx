@@ -23,7 +23,7 @@ class FreeplaySelection extends MusicBeatState
 	public static var freeSelect:Array<String> = ['story', 'objects', 'parodies', 'extra'];
 	
 	var arrow:FlxSprite;
-	var bg = new FlxSprite(2328,1000).loadGraphic(Paths.image('freeplayselection/Categories'));
+	var bg:FlxSprite;
 	var categories:FlxSprite;
     var story:FlxSprite;
     var objectshows:FlxSprite;
@@ -40,13 +40,21 @@ class FreeplaySelection extends MusicBeatState
 		FlxTween.tween(FlxG.camera, {zoom: 2}, 1.1, {ease: FlxEase.expoInOut});
 		camGame = new FlxCamera();
 		camAchievement = new FlxCamera();
-		camAchievement.bgColor.alpha = 0;		
-
+		camAchievement.bgColor.alpha = 0;
+		
+		bg = new FlxSprite(2328,1000).loadGraphic(Paths.image('freeplayselection/Background'));
 		bg.antialiasing = ClientPrefs.globalAntialiasing;
-		bg.scale.x = 0.6;
-		bg.scale.y = 0.6;
+		bg.scale.x = 0.35;
+		bg.scale.y = 0.35;
 		bg.screenCenter(); 
 		add(bg);
+
+		categories = new FlxSprite(2328,1000).loadGraphic(Paths.image('freeplayselection/Categories'));
+		categories.antialiasing = ClientPrefs.globalAntialiasing;
+		categories.scale.x = 0.6;
+		categories.scale.y = 0.6;
+		categories.screenCenter(); 
+		add(categories);
 
 		story = new FlxSprite(8,36).loadGraphic(Paths.image('freeplayselection/StoryMode'));
 		story.scale.x = 0.11;

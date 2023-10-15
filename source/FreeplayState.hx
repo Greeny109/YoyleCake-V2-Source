@@ -55,7 +55,7 @@ class FreeplayState extends MusicBeatState
 		switch (FreeplaySelection.freeSelect[FreeplaySelection.curCategory].toLowerCase())
 			{
 				case 'story':
-					addWeek(['Zeeky-Boogy-Doog', 'Skidoo', 'Yoyleberries', 'Bug-Intolerance', 'Evil-Look', 'Bricked', 'Melody', 'Batter', 'Stupid-Murder', 'Value', 'Tea-Pot', 'Equations', 'Bowling With Explosions' ], 0, 0xffadecff, ['firey', 'leafy', 'bubble', 'flower', 'evil-leafy', 'lego-brick', 'tune', 'waffle', 'four', 'x', 'two', 'equations', 'watery']);
+					addWeek(['Zeeky-Boogy-Doog', 'Skidoo', 'Yoyleberries', 'Bug-Intolerance', 'Evil-Look', 'Blocked-Up', 'Melody', 'Batter', 'Stupid-Murder', 'Value', 'Tea-Pot', 'Equations', 'Bowling With Explosions' ], 0, 0xffadecff, ['firey', 'leafy', 'bubble', 'flower', 'evil-leafy', 'lego-brick', 'tune', 'waffle', 'four', 'x', 'two', 'equations', 'watery']);
 				case 'objects':
 					addWeek(['Fatslob', 'Replay', 'Shooting-Keemstar', 'Ah-A-Ah', 'Self-Titled', 'Entry' ], 1, 0xffadecff, ['mephone', 'party-hat', 'psvita', 'parallelogram', 'liam', 'orager']);
 				case 'parodies':
